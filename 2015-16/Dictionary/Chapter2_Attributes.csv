@@ -1,0 +1,78 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+58;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Geographical Area Sq.Kms
+59;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Total,Population
+60;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Male,Population
+61;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Females,Population
+62;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;% Share to total Population
+63;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;% Rank
+64;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Total,Population 2011
+65;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Rural,Population 2011
+66;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Urban,Population 2011
+67;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Total,% Decadal Change 2001-2011
+68;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Rural,% Decadal Change 2001-2011
+69;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Urban,% Decadal Change 2001-2011
+70;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Total,Sex Ratio 2001
+71;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Rural,Sex Ratio 2001
+72;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Urban,Sex Ratio 2001
+73;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Total,Sex Ratio 2011
+74;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Rural,Sex Ratio 2011
+75;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Urban,Sex Ratio 2011
+76;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,Child Population 0-6 Years 2011
+77;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,Child Population 0-6 Years 2011
+78;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,Child Population 0-6 Years 2011
+79;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,2001,Proporationof Child Population
+80;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,2001,Proporationof Child Population
+81;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,2001,Proporationof Child Population
+82;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,2011,Proporationof Child Population
+83;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,2011,Proporationof Child Population
+84;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,2011,Proporationof Child Population
+85;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Total,Child Sex Ratio 0-6 Years 2001
+86;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Rural,Child Sex Ratio 0-6 Years 2001
+87;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Urban,Child Sex Ratio 0-6 Years 2001
+88;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Total,Child Sex Ratio 0-6 Years 2011
+89;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Rural,Child Sex Ratio 0-6 Years 2011
+90;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Urban,Child Sex Ratio 0-6 Years 2011
+91;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Total,Scheduled Caste Population 2011
+92;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Rural,Scheduled Caste Population 2011
+93;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Urban,Scheduled Caste Population 2011
+94;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Total,Decadal Change 2001-2011
+95;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Rural,Decadal Change 2001-2011
+96;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Urban,Decadal Change 2001-2011
+97;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Total,% Scheduled Castes 2001
+98;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Rural,% Scheduled Castes 2001
+99;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Urban,% Scheduled Castes 2001
+100;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Total,% Scheduled Castes 2011
+101;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Rural,% Scheduled Castes 2011
+102;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Urban,% Scheduled Castes 2011
+103;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Total,Scheduled Tribe Population 2011
+104;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Rural,Scheduled Tribe Population 2011
+105;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Urban,Scheduled Tribe Population 2011
+106;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Total,Decadal change 2001-2011
+107;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Rural,Decadal change 2001-2011
+108;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Urban,Decadal change 2001-2011
+109;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Total,% Scheduled Tribes 2001
+110;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Rural,% Scheduled Tribes 2001
+111;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Urban,% Scheduled Tribes 2001
+112;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Total,% Scheduled Tribes 2011
+113;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Rural,% Scheduled Tribes 2011
+114;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Urban,% Scheduled Tribes 2011
+120;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,0-14
+121;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,0-14
+122;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,0-14
+123;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,15-59
+124;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,15-59
+125;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,15-59
+126;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,60
+127;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,60
+128;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,60
+129;2;AREA AND POPULATION;2.12;Projected Population Numbers;2011
+130;2;AREA AND POPULATION;2.12;Projected Population Numbers;2012
+131;2;AREA AND POPULATION;2.12;Projected Population Numbers;2013
+132;2;AREA AND POPULATION;2.12;Projected Population Numbers;2014
+133;2;AREA AND POPULATION;2.12;Projected Population Numbers;2015
+134;2;AREA AND POPULATION;2.12;Projected Population Numbers;2016
+135;2;AREA AND POPULATION;2.12;Projected Population Numbers;2017
+136;2;AREA AND POPULATION;2.12;Projected Population Numbers;2018
+137;2;AREA AND POPULATION;2.12;Projected Population Numbers;2019
+138;2;AREA AND POPULATION;2.12;Projected Population Numbers;2020
+139;2;AREA AND POPULATION;2.12;Projected Population Numbers;2021

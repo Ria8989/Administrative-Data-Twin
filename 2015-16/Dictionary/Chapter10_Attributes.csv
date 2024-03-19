@@ -1,0 +1,115 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+534;10;Education;10.1;Literates per 2011 Census;Male,Rural,Literates
+535;10;Education;10.1;Literates per 2011 Census;Female,Rural,Literates
+536;10;Education;10.1;Literates per 2011 Census;Total,Rural,Literates
+537;10;Education;10.1;Literates per 2011 Census;Male,Urban,Literates
+538;10;Education;10.1;Literates per 2011 Census;Female,Urban,Literates
+539;10;Education;10.1;Literates per 2011 Census;Total,Urban,Literates
+540;10;Education;10.1;Literates per 2011 Census;Male,Total,Literates
+541;10;Education;10.1;Literates per 2011 Census;Female,Total,Literates
+542;10;Education;10.1;Literates per 2011 Census;Total,Literates
+543;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Rural,Literacy rate
+544;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Rural,Literacy rate
+545;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Rural,Literacy rate
+546;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Urban,Literacy rate
+547;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Urban,Literacy rate
+548;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Urban,Literacy rate
+549;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Total,Literacy rate
+550;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Total,Literacy rate
+551;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Literacy rate
+552;10;Education;10.2;Literacy Rate % per 2011 Census;Rank
+553;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Number of Schools
+554;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Boys,Total Enrolment 1-5th standard,Lower Primary School
+555;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Girls,Total Enrolment 1-5th standard,Lower Primary School
+556;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Total,Total Enrolment 1-5th standard,Lower Primary School
+557;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Number of Schools
+558;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Boys,Upper Primary Schools Total Enrolment
+559;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Girls,Upper Primary Schools Total Enrolment
+560;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Total,Upper Primary Schools Total Enrolment
+561;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Number of Schools
+562;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Boys,Total Enrolment 9-10th standard,High Schools
+563;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Girls,Total Enrolment 9-10th standard,High Schools
+564;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Total,Total Enrolment 9-10th standard,High Schools
+565;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Number of Total
+566;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Male,No.of Primary School Teachers
+567;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Female,No.of Primary School Teachers
+568;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Total,No.of Primary School Teachers
+569;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Student Teacher Ratio
+570;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Number of Total Enrolment
+571;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Male,No.of High School Teacher
+572;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Female,No.of High School Teacher
+573;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Total,No.of High School Teacher
+574;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Student Teacher Ratio
+575;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Boys,No.of Children age group between 6 to 14
+576;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Girls,No.of Children age group between 6 to 14
+577;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Total,No.of Children age group between 6 to 14
+578;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Boys,j A7z 14 No.of Children out of school age group between 7 to 14
+579;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Girls,j A7z 14 No.of Children out of school age group between 7 to 14
+580;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Total,j A7z 14 No.of Children out of school age group between 7 to 14
+581;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;No.of Primary Schools,Infrastructure Facilities in Primary Schools
+582;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Boys Toilet,Infrastructure Facilities in Primary Schools
+583;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Girls Toilet,Infrastructure Facilities in Primary Schools
+584;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Electricity,Infrastructure Facilities in Primary Schools
+585;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Play Ground,Infrastructure Facilities in Primary Schools
+586;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Ramp,Infrastructure Facilities in Primary Schools
+587;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Compound,Infrastructure Facilities in Primary Schools
+588;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Drinking Water,Infrastructure Facilities in Primary Schools
+589;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Library,Infrastructure Facilities in Primary Schools
+590;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Computer,Infrastructure Facilities in Primary Schools
+591;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;No.of High Schools,Infrastructure Facilities in High Schools
+592;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Boys Toilet,Infrastructure Facilities in High Schools
+593;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Girls Toilet,Infrastructure Facilities in High Schools
+594;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Electricity,Infrastructure Facilities in High Schools
+595;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Play Ground,Infrastructure Facilities in High Schools
+596;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Ramp,Infrastructure Facilitiesin High Schools
+597;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Compound,Infrastructure Facilitiesin High Schools
+598;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Drinking Water,Infrastructure Facilitiesin High Schools
+599;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Library,Infrastructure Facilitiesin High Schools
+600;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Computer,Infrastructure Facilitiesin High Schools
+601;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;No of Colleges
+602;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Men,No. of Lecturers
+603;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Women,No. of Lecturers
+604;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Government,No.Of Students in Pu colleges 1 2nd Year
+605;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Government,No.Of Students in Pu colleges 1 2nd Year
+606;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Aided,Private,No.Of Students in Pu colleges 1 2nd Year
+607;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Aided,Private,No.Of Students in Pu colleges 1 2nd Year
+608;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Unaided,Private,No.Of Students in Pu colleges 1 2nd Year
+609;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Unaided,Private,No.Of Students in Pu colleges 1 2nd Year
+610;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Total Govt Private,No.Of Students in Pu colleges 1 2nd Year
+611;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Total Govt Private,No.Of Students in Pu colleges 1 2nd Year
+612;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;No.of Colleges,General Degree Colleges-Government
+613;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Boys,Ist year to final year,General Degree Colleges-Government
+614;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Girls,Ist year to final year,General Degree Colleges-Government
+615;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Total,Ist year to final year,General Degree Colleges-Government
+616;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;No.of Colleges,General Degree Colleges Private
+617;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Boys,Ist year to final year aide,General Degree Colleges Private
+618;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Girls,Ist year to final year aide,General Degree Colleges Private
+619;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Total,Ist year to final year aide,General Degree Colleges Private
+620;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Colleges,Indian System of Medicine Colleges Government Ist year to final year
+621;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Boys,Students,Indian System of Medicine Colleges Government Ist year to final year
+622;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Girls,Students,Indian System of Medicine Colleges Government Ist year to final year
+623;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Total,Students,Indian System of Medicine Colleges Government Ist year to final year
+624;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Colleges,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+625;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Boys,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+626;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Girls,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+627;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Total,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+628;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Number of Colleges,Medical Colleges Allopathy,Cfl
+629;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Students Intake,Medical Colleges Allopathy,Cfl
+630;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Number of Colleges,Dental Colleges
+631;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Students Intake,Dental Colleges
+632;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;No.of Institutions,Polytechnic- Government
+633;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Male,Istyear,Polytechnic- Government
+634;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Female,Istyear,Polytechnic- Government
+635;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Total,Istyear,Polytechnic- Government
+636;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;No.of Institutions,Polytechnic-Private Aided Unaided
+637;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Male,Ist year,Polytechnic-Private Aided Unaided
+638;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Female,Ist year,Polytechnic-Private Aided Unaided
+639;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Total,Ist year,Polytechnic-Private Aided Unaided
+640;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;No.of P U Colleges,Engineering- Government
+641;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Male,Ist year,Engineering- Government
+642;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Female,Ist year,Engineering- Government
+643;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Total,Ist year,Engineering- Government
+644;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;No.of P U Colleges,Engineering- Private Aided
+645;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Male,Ist year,Engineering- Private Aided
+646;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Female,Ist year,Engineering- Private Aided
+647;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Total,Ist year,Engineering- Private Aided
