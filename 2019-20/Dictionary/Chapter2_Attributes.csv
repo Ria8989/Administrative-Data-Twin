@@ -1,0 +1,242 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+70;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Geograpical Area Sq.Kms
+71;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Population Density
+72;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Rual,Households
+73;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Urban,Households
+74;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Total,Households
+75;2;Area and Population;2.1;Area Population Density and Households 2011 Census;% Share to Total Households
+76;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Rank
+77;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Projected households in 2020
+78;2;Area and Population;2.1;Population 2011 Census;Total,Population
+79;2;Area and Population;2.1;Population 2011 Census;Male,Population
+80;2;Area and Population;2.1;Population 2011 Census;Female,Population
+81;2;Area and Population;2.1;Population 2011 Census;% Share to Total Population
+82;2;Area and Population;2.1;Population 2011 Census;Rank
+83;2;Area and Population;2.1;Projected Population for 2021;Total,Population
+84;2;Area and Population;2.1;Projected Population for 2021;Male,Population
+85;2;Area and Population;2.1;Projected Population for 2021;Female,Population
+86;2;Area and Population;2.1;Projected Population for 2021;% Share to Total Population
+87;2;Area and Population;2.1;Projected Population for 2021;Rank
+88;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Male,Rural,Population 2011
+89;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Female,Rural,Population 2011
+90;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Rural,Population 2011
+91;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Male,Urban,Population 2011
+92;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Female,Urban,Population 2011
+93;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Urban,Population 2011
+94;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Population 2011
+95;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Decadal Change in % 2001-11
+96;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Rural,Decadal Change in % 2001-11
+97;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Urban,Decadal Change in % 2001-11
+98;2;Area and Population;2.3;Sex Ratio;Total,Sex Ratio 2001
+99;2;Area and Population;2.3;Sex Ratio;Rural,Sex Ratio 2001
+100;2;Area and Population;2.3;Sex Ratio;Urban,Sex Ratio 2001
+101;2;Area and Population;2.3;Sex Ratio;Total,Sex Ratio 2011
+102;2;Area and Population;2.3;Sex Ratio;Rural,Sex Ratio 2011
+103;2;Area and Population;2.3;Sex Ratio;Urban,Sex Ratio 2011
+104;2;Area and Population;2.3;Sex Ratio;Decadal Change in % 2001-2011
+105;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Total,Child Population 0-6 Years 2011
+106;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Rural,Child Population 0-6 Years 2011
+107;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Urban,Child Population 0-6 Years 2011
+108;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Total,Projected Child Population 0-6 Years 2021
+109;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Rural,Projected Child Population 0-6 Years 2021
+110;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Urban,Projected Child Population 0-6 Years 2021
+111;2;Area and Population;2.4;Percentage of Child Population to the Total population;Total,2011 Census
+112;2;Area and Population;2.4;Percentage of Child Population to the Total population;Rural,2011 Census
+113;2;Area and Population;2.4;Percentage of Child Population to the Total population;Urban,2011 Census
+114;2;Area and Population;2.4;Percentage of Child Population to the Total population;Total,2021 Projected
+115;2;Area and Population;2.4;Percentage of Child Population to the Total population;Rural,2021 Projected
+116;2;Area and Population;2.4;Percentage of Child Population to the Total population;Urban,2021 Projected
+117;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Total,Child Sex Ratio 0-6 Years 2001
+118;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Rural,Child Sex Ratio 0-6 Years 2001
+119;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Urban,Child Sex Ratio 0-6 Years 2001
+120;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Total,Child Sex Ratio 0-6 Years 2011
+121;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Rural,Child Sex Ratio 0-6 Years 2011
+122;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Urban,Child Sex Ratio 0-6 Years 2011
+123;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Decadal change in % 2001-2011
+124;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Male,Rural,Scheduled Caste Population 2011
+125;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Female,Rural,Scheduled Caste Population 2011
+126;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Rural,Scheduled Caste Population 2011
+127;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Male,Urban,Scheduled Caste Population 2011
+128;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Female,Urban,Scheduled Caste Population 2011
+129;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Urban,Scheduled Caste Population 2011
+130;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Scheduled Caste Population 2011
+131;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Decadal Change 2001 2011
+132;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Rural,Decadal Change 2001 2011
+133;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Urban,Decadal Change 2001 2011
+134;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Total,% of Scheduled Caste Population 2001
+135;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Rural,% of Scheduled Caste Population 2001
+136;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Urban,% of Scheduled Caste Population 2001
+137;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Total,% of Scheduled Caste Population 2011
+138;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Rural,% of Scheduled Caste Population 2011
+139;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Urban,% of Scheduled Caste Population 2011
+140;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Male,Rural,Scheduled Tribe Population 2011
+141;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Female,Rural,Scheduled Tribe Population 2011
+142;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Rural,Scheduled Tribe Population 2011
+143;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Male,Urban,Scheduled Tribe Population 2011
+144;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Female,Urban,Scheduled Tribe Population 2011
+145;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Urban,Scheduled Tribe Population 2011
+146;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Scheduled Tribe Population 2011
+147;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Decadal change in% 2001-2011
+148;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Rural,Decadal change in% 2001-2011
+149;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Urban,Decadal change in% 2001-2011
+150;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Total,% of Scheduled Tribe Population 2001 Census
+151;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Rural,% of Scheduled Tribe Population 2001 Census
+152;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Urban,% of Scheduled Tribe Population 2001 Census
+153;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Total,% of Scheduled Tribe Population 2011 Census
+154;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Rural,% of Scheduled Tribe Population 2011 Census
+155;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Urban,% of Scheduled Tribe Population 2011 Census
+163;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,0-14 2011
+164;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,0-14 2011
+165;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,0-14 2011
+166;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,0-14 2021
+167;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,0-14 2021
+168;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,0-14 2021
+169;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,15-59 2011
+170;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,15-59 2011
+171;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,15-59 2011
+172;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,15-59 2021
+173;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,15-59 2021
+174;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,15-59 2021
+175;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,60 2011
+176;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,60 2011
+177;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,60 2011
+178;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,60 2021
+179;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,60 2021
+180;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,60 2021
+181;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Grand Total,2011
+182;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Grand Total,2021
+183;2;Area and Population;2.12;Projected Population In Numbers;2011
+184;2;Area and Population;2.12;Projected Population In Numbers;2012
+185;2;Area and Population;2.12;Projected Population In Numbers;2013
+186;2;Area and Population;2.12;Projected Population In Numbers;2014
+187;2;Area and Population;2.12;Projected Population In Numbers;2015
+188;2;Area and Population;2.12;Projected Population In Numbers;2016
+189;2;Area and Population;2.12;Projected Population In Numbers;2017
+190;2;Area and Population;2.12;Projected Population In Numbers;2018
+191;2;Area and Population;2.12;Projected Population In Numbers;2019
+192;2;Area and Population;2.12;Projected Population In Numbers;2020
+193;2;Area and Population;2.12;Projected Population In Numbers;2021
+194;2;Area and Population;2.13;Religion-wise Population 2011;Male,Hindu
+195;2;Area and Population;2.13;Religion-wise Population 2011;Female,Hindu
+196;2;Area and Population;2.13;Religion-wise Population 2011;Total,Hindu
+197;2;Area and Population;2.13;Religion-wise Population 2011;% of Hindu Population to Total Population,Hindu
+198;2;Area and Population;2.13;Religion-wise Population 2011;Male,Muslim
+199;2;Area and Population;2.13;Religion-wise Population 2011;Female,Muslim
+200;2;Area and Population;2.13;Religion-wise Population 2011;Total,Muslim
+201;2;Area and Population;2.13;Religion-wise Population 2011;% of Muslim Population to Total Population,Muslim
+202;2;Area and Population;2.13;Religion-wise Population 2011;Male,Christian
+203;2;Area and Population;2.13;Religion-wise Population 2011;Female,Christian
+204;2;Area and Population;2.13;Religion-wise Population 2011;Total,Christian
+205;2;Area and Population;2.13;Religion-wise Population 2011;% of Christian Population to Total Population,Christian
+206;2;Area and Population;2.13;Religion-wise Population 2011;Male,Sikh
+207;2;Area and Population;2.13;Religion-wise Population 2011;Female,Sikh
+208;2;Area and Population;2.13;Religion-wise Population 2011;Total,Sikh
+209;2;Area and Population;2.13;Religion-wise Population 2011;% of Sikh Population to Total Population,Sikh
+210;2;Area and Population;2.13;Religion-wise Population 2011;Male,Buddhist
+211;2;Area and Population;2.13;Religion-wise Population 2011;Female,Buddhist
+212;2;Area and Population;2.13;Religion-wise Population 2011;Total,Buddhist
+213;2;Area and Population;2.13;Religion-wise Population 2011;% of Buddhist Population to Total Population,Buddhist
+214;2;Area and Population;2.13;Religion-wise Population 2011;Male,Jain
+215;2;Area and Population;2.13;Religion-wise Population 2011;Female,Jain
+216;2;Area and Population;2.13;Religion-wise Population 2011;Total,Jain
+217;2;Area and Population;2.13;Religion-wise Population 2011;% of Jain Population to Total Population,Jain
+218;2;Area and Population;2.13;Religion-wise Population 2011;Male,Other religions and persuasions includes Unclassified Sector
+219;2;Area and Population;2.13;Religion-wise Population 2011;Female,Other religions and persuasions includes Unclassified Sector
+220;2;Area and Population;2.13;Religion-wise Population 2011;Total,Other religions and persuasions includes Unclassified Sector
+221;2;Area and Population;2.13;Religion-wise Population 2011;Male,Religion not stated
+222;2;Area and Population;2.13;Religion-wise Population 2011;Female,Religion not stated
+223;2;Area and Population;2.13;Religion-wise Population 2011;Total,Religion not stated
+224;2;Area and Population;2.13;Religion-wise Population 2011;% of Other Population to Total Population
+225;2;Area and Population;2.13;Religion-wise Population 2011;Male,Grand Total
+226;2;Area and Population;2.13;Religion-wise Population 2011;Female,Grand Total
+227;2;Area and Population;2.13;Religion-wise Population 2011;Total,Grand Total
+228;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Rural
+229;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Rural
+230;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total,Rural
+231;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Urban
+232;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Urban
+233;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total,Urban
+234;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Total
+235;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Total
+236;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total
+237;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;% of main workers to total workers
+238;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Rural
+239;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Rural
+240;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total,Rural
+241;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Urban
+242;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Urban
+243;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total,Urban
+244;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Total
+245;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Total
+246;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total
+247;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;% of marginal workers to total workers
+248;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Rural
+249;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Rural
+250;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total,Rural
+251;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Urban
+252;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Urban
+253;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total,Urban
+254;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Total
+255;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Total
+256;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total
+257;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;% of Non workers to total Population
+258;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Rural
+259;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Rural
+260;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total,Rural
+261;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Urban
+262;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Urban
+263;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total,Urban
+264;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Total
+265;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Total
+266;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total
+267;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;% of agricultural cultivators to total workers
+268;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Rural
+269;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Rural
+270;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total,Rural
+271;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Urban
+272;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Urban
+273;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total,Urban
+274;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Total
+275;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Total
+276;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total
+277;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;% of Agricultural labourers to total workers
+278;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Rural
+279;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Rural
+280;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total,Rural
+281;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Urban
+282;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Urban
+283;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total,Urban
+284;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Total
+285;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Total
+286;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total
+287;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;% of workers in household industries to total workers
+288;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Rural
+289;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Rural
+290;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total,Rural
+291;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Urban
+292;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Urban
+293;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total,Urban
+294;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Total
+295;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Total
+296;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total
+297;2;Area and Population;2.20;Workers 2011 Census in Numbers;% of other workers to total workers
+298;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Rural
+299;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Rural
+300;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total,Rural
+301;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Urban
+302;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Urban
+303;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total,Urban
+304;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Total
+305;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Total
+306;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total
+307;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;% oftotal workers to total poulation
+308;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Rural
+309;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Rural
+310;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total,Rural
+311;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Urban
+312;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Urban
+313;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total,Urban
+314;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Total
+315;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Total
+316;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total
+317;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;% of non agricultural workers to total workers

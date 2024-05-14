@@ -1,0 +1,84 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+834;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Readymade Garments
+835;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Readymade Garments
+836;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Readymade Garments
+837;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Textiles
+838;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Textiles
+839;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Textiles
+840;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Chemical
+841;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Chemical
+842;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Chemical
+843;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Engineering
+844;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Engineering
+845;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Engineering
+846;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Others
+847;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Others
+848;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Others
+849;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Total
+850;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Total
+851;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Total
+852;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Factories
+853;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Male,Employees
+854;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Female,Employees
+855;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Total,Employees
+856;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Automobiles
+857;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Automobiles
+858;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Automobiles
+859;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Automobiles
+860;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Electricals Electronics
+861;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Electricals Electronics
+862;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Electricals Electronics
+863;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Electricals Electronics
+864;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Chemicals
+865;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Chemicals
+866;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Chemicals
+867;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Chemicals
+868;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Food Intoxicants
+869;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Food Intoxicants
+870;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Food Intoxicants
+871;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Food Intoxicants
+872;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Leather
+873;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Leather
+874;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Leather
+875;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Leather
+876;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Paper and Printing
+877;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Paper and Printing
+878;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Paper and Printing
+879;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Paper and Printing
+880;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Rubber and plastic
+881;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Rubber and plastic
+882;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Rubber and plastic
+883;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Rubber and plastic
+884;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Textiles
+885;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Textiles
+886;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Textiles
+887;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Textiles
+888;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Wood
+889;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Wood
+890;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Wood
+891;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Wood
+892;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Others
+893;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Others
+894;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Others
+895;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Others
+896;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Other Service Activities
+897;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Other Service Activities
+898;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Other Service Activities
+899;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Other Service Activities
+900;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Total
+901;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;% of Industries to state total,Total
+902;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Total
+903;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Total
+904;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Total
+905;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;% of Employment to State total,Total
+906;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;No.
+907;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Male,Employees
+908;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Female,Employees
+909;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Total,Employees
+910;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Working Factories Nos,No. of Working Factories and Cane Crushed
+911;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Cane rushed In MTs,No. of Working Factories and Cane Crushed
+912;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Sugar Produced In MTs,No. of Working Factories and Cane Crushed
+913;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;No of Enterprises engaged in Trade Hotels and Transport activities per 2015 Economic Census
+914;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Estates,Factories
+915;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Sheds,Factories
+916;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Plots,Factories

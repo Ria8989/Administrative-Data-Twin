@@ -1,0 +1,6 @@
+Look_Up/
+Test/
+Documentation/
+.*
+!/.gitignore
+glove_wiki_vectors.kv.vectors.npy 

@@ -1,0 +1,44 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+1478;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Beneficiries under Bhagyajyoti Kutirajyoti
+1479;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Villages,Electrified
+1480;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Hamlets,Electrified
+1481;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;I.p. Sets,Electrified
+1482;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Villages,Non Electrified
+1483;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Hamlets,Non Electrified
+1484;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;I.p. Sets,Non Electrified
+1485;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Domestic
+1486;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Domestic
+1487;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Industrial
+1488;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Industrial
+1489;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Commercial Consumption
+1490;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Commercial Consumption
+1491;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,I.p. Sets
+1492;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,I.p. Sets
+1493;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Street Light Lt
+1494;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Water supply Ht
+1495;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Water Supply
+1496;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Ht,Others
+1497;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Others
+1498;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Ht,Total
+1499;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Total
+1500;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Grand Total Ht Lt
+1501;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Domestic,Consumption In Million Units
+1502;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Domestic,Consumption In Million Units
+1503;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Industrial,Consumption In Million Units
+1504;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Industrial,Consumption In Million Units
+1505;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Commercial Consumption,Consumption In Million Units
+1506;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Commercial Consumption,Consumption In Million Units
+1507;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,I.p. Sets,Consumption In Million Units
+1508;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,I.p. Sets,Consumption In Million Units
+1509;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Street Light,Consumption In Million Units
+1510;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Water supply,Consumption In Million Units
+1511;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Water supply,Consumption In Million Units
+1512;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Others Electricity Consumption Ht,Consumption In Million Units
+1513;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Others Lt,Consumption In Million Units
+1514;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Total,Consumption In Million Units
+1515;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Total,Consumption In Million Units
+1516;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Grand Total Ht Lt,Consumption In Million Units
+1517;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;% of Electricity Consumption by sets to Total Consumption,Consumption In Million Units
+1518;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units
+1519;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units
+1520;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Grand Total Ht Lt,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units

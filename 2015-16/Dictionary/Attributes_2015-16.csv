@@ -1,0 +1,1168 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+3.0;1;General Information;1.1;Nada Offices Village Accountant Circles Hoblies Grama Panchayaths Taluks on 31-03-2016;Nada Offices
+4.0;1;General Information;1.1;Nada Offices Village Accountant Circles Hoblies Grama Panchayaths Taluks on 31-03-2016;Circles
+5.0;1;General Information;1.1;Nada Offices Village Accountant Circles Hoblies Grama Panchayaths Taluks on 31-03-2016;Hoblies
+6.0;1;General Information;1.1;Nada Offices Village Accountant Circles Hoblies Grama Panchayaths Taluks on 31-03-2016;Grama Panchayaths
+7.0;1;General Information;1.1;Nada Offices Village Accountant Circles Hoblies Grama Panchayaths Taluks on 31-03-2016;No.of Taluks
+8.0;1;General Information;1.2;No.of Taluks Inhabited Un-inhabited and Total Villages Nos. per 2011 Census;Cities Towns Urban
+9.0;1;General Information;1.2;No.of Taluks Inhabited Un-inhabited and Total Villages Nos. per 2011 Census;Inhabited,Villages
+10.0;1;General Information;1.2;No.of Taluks Inhabited Un-inhabited and Total Villages Nos. per 2011 Census;Un-inhabited,Villages
+11.0;1;General Information;1.2;No.of Taluks Inhabited Un-inhabited and Total Villages Nos. per 2011 Census;Total Villages
+12.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;Cc,Local Bodies
+13.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;Cmc,Local Bodies
+14.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;Tmc,Local Bodies
+15.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;Local Bodies
+16.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;NACs,Local Bodies
+17.0;1;General Information;1.3;Urban Local Bodies on 31-03-2016 In Nos;Total,Local Bodies
+18.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Permanent,Cinema Theatres
+19.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Temporary,Cinema Theatres
+20.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Police Stations
+21.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Prisons,Prisons and Prisoners 31-03-2016
+22.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Male,Prisoner,Prisons and Prisoners 31-03-2016
+23.0;1;General Information;1.4;Cinema Theatres Police Station Prisons and Prisoners on 31-03-2016 In Nos;Female,Prisoner,Prisons and Prisoners 31-03-2016
+24.0;1;General Information;1.5;No.of Fire Stations on 31-03-2016 In Nos;Fire Brigade Stations
+25.0;1;General Information;1.5;No.of Fire Stations on 31-03-2016 In Nos;Working Fire Brigade Water Tankers
+26.0;1;General Information;1.5;No.of Fire Stations on 31-03-2016 In Nos;Emergencyfirecall received
+27.0;1;General Information;1.5;No.of Fire Stations on 31-03-2016 In Nos;Value of the property protected
+28.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Urban,Ration shops
+29.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Rural,Ration shops
+30.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Total,Ration shops
+31.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Urban,Anthyodaya,Bpl Card Holders
+32.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Rural,Anthyodaya,Bpl Card Holders
+33.0;1;General Information;1.6;Ration Shops And B.p.l. Ration Card Holders on 31-03-2016 In Nos;Total,Anthyodaya,Bpl Card Holders
+34.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Urban,Akshaya with cylinder,Bpl Card Holders
+35.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Rural,Akshaya with cylinder,Bpl Card Holders
+36.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Total,Akshaya with cylinder,Bpl Card Holders
+37.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Urban,Akshaya without cylinder,Bpl Card Holders
+38.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Rural,Akshaya without cylinder,Bpl Card Holders
+39.0;1;General Information;1.7;Bpl Priority Card Holders on 31-03-2016 In Nos;Total,Akshaya without cylinder,Bpl Card Holders
+40.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Urban,With Cylinder,Apl Card Holders
+41.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Rural,With Cylinder,Apl Card Holders
+42.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Total,With Cylinder,Apl Card Holders
+43.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Urban,Without Cylinder,Apl Card Holders
+44.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Rural,Without Cylinder,Apl Card Holders
+45.0;1;General Information;1.8;No.of A.p.l. Non-Priority Card Holders on 31-03-2016 In Nos;Total,Without Cylinder,Apl Card Holders
+46.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Urban,Total Ration Card Holders
+47.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Rural,Total Ration Card Holders
+48.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Total,Total Ration Card Holders
+49.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Urban,Photo Card Holders
+50.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Rural,Photo Card Holders
+51.0;1;General Information;1.9;Total Ration Card Holders Photo Card Holders on 31-03-2016 In Nos;Total,Photo Card Holders
+52.0;1;General Information;1.10;District Income Of Karnataka;Gross District Domestic Product Gddp Rs. in Lakhs,At Current Prices 2013-14
+53.0;1;General Information;1.10;District Income Of Karnataka;Net District Domestic Product Nddp Rs. in Lakhs,At Current Prices 2013-14
+54.0;1;General Information;1.10;District Income Of Karnataka;Gross District Domestic Product Gddp Rs. in Lakhs,At Constant 2011-12 Prices
+55.0;1;General Information;1.10;District Income Of Karnataka;Net District Domestic Product Nddp Rs. in Lakhs,At Constant 2011-12 Prices
+56.0;1;General Information;1.10;District Income Of Karnataka;At Current Prices 2013-14,Per capita Nddp In Rs.
+57.0;1;General Information;1.10;District Income Of Karnataka;At Constant 2011-12 Prices,Per capita Nddp In Rs.
+58.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Geographical Area Sq.Kms
+59.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Total,Population
+60.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Male,Population
+61.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;Females,Population
+62.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;% Share to total Population
+63.0;2;AREA AND POPULATION;2.1;Population and percentage share to total Population 2011;% Rank
+64.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Total,Population 2011
+65.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Rural,Population 2011
+66.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Urban,Population 2011
+67.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Total,% Decadal Change 2001-2011
+68.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Rural,% Decadal Change 2001-2011
+69.0;2;AREA AND POPULATION;2.2;Rural and Urban Population and Decadal change by residence 2011;Urban,% Decadal Change 2001-2011
+70.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Total,Sex Ratio 2001
+71.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Rural,Sex Ratio 2001
+72.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Urban,Sex Ratio 2001
+73.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Total,Sex Ratio 2011
+74.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Rural,Sex Ratio 2011
+75.0;2;AREA AND POPULATION;2.3;Ratio No.of Females per 1000 Males 2001- 2011;Urban,Sex Ratio 2011
+76.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,Child Population 0-6 Years 2011
+77.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,Child Population 0-6 Years 2011
+78.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,Child Population 0-6 Years 2011
+79.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,2001,Proporationof Child Population
+80.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,2001,Proporationof Child Population
+81.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,2001,Proporationof Child Population
+82.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Total,2011,Proporationof Child Population
+83.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Rural,2011,Proporationof Child Population
+84.0;2;AREA AND POPULATION;2.4;Child Population 0-6 and proportion by residence 2011 Persons;Urban,2011,Proporationof Child Population
+85.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Total,Child Sex Ratio 0-6 Years 2001
+86.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Rural,Child Sex Ratio 0-6 Years 2001
+87.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Urban,Child Sex Ratio 0-6 Years 2001
+88.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Total,Child Sex Ratio 0-6 Years 2011
+89.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Rural,Child Sex Ratio 0-6 Years 2011
+90.0;2;AREA AND POPULATION;2.5;Child Sex Ratio 0-6 Years by residence 2001-2011;Urban,Child Sex Ratio 0-6 Years 2011
+91.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Total,Scheduled Caste Population 2011
+92.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Rural,Scheduled Caste Population 2011
+93.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Urban,Scheduled Caste Population 2011
+94.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Total,Decadal Change 2001-2011
+95.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Rural,Decadal Change 2001-2011
+96.0;2;AREA AND POPULATION;2.6;Scheduled Caste Population and Decadal change by residence 2011;Urban,Decadal Change 2001-2011
+97.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Total,% Scheduled Castes 2001
+98.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Rural,% Scheduled Castes 2001
+99.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Urban,% Scheduled Castes 2001
+100.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Total,% Scheduled Castes 2011
+101.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Rural,% Scheduled Castes 2011
+102.0;2;AREA AND POPULATION;2.7;Percentage of Scheduled Castes to total Population 2001-2011;Urban,% Scheduled Castes 2011
+103.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Total,Scheduled Tribe Population 2011
+104.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Rural,Scheduled Tribe Population 2011
+105.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Urban,Scheduled Tribe Population 2011
+106.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Total,Decadal change 2001-2011
+107.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Rural,Decadal change 2001-2011
+108.0;2;AREA AND POPULATION;2.8;Scheduled Tribe Population and Decadal change by residence 2011 Persons;Urban,Decadal change 2001-2011
+109.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Total,% Scheduled Tribes 2001
+110.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Rural,% Scheduled Tribes 2001
+111.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Urban,% Scheduled Tribes 2001
+112.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Total,% Scheduled Tribes 2011
+113.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Rural,% Scheduled Tribes 2011
+114.0;2;AREA AND POPULATION;2.9;Percentage of Scheduled Tribes to total Population 2011;Urban,% Scheduled Tribes 2011
+120.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,0-14
+121.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,0-14
+122.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,0-14
+123.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,15-59
+124.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,15-59
+125.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,15-59
+126.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Male,60
+127.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Female,60
+128.0;2;AREA AND POPULATION;2.11;Districtwise Population By Age Groups And Sex 2011 Age groups inyears;Total,60
+129.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2011
+130.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2012
+131.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2013
+132.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2014
+133.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2015
+134.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2016
+135.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2017
+136.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2018
+137.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2019
+138.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2020
+139.0;2;AREA AND POPULATION;2.12;Projected Population Numbers;2021
+140.0;3;Rainfall;3.1;No.of Rainguage Stations Annual Normal Rainfall and Rain Days Year 2016;Working,Rainguage Stations
+141.0;3;Rainfall;3.1;No.of Rainguage Stations Annual Normal Rainfall and Rain Days Year 2016;Not Working,Rainguage Stations
+142.0;3;Rainfall;3.1;No.of Rainguage Stations Annual Normal Rainfall and Rain Days Year 2016;Total,Rainguage Stations
+143.0;3;Rainfall;3.1;No.of Rainguage Stations Annual Normal Rainfall and Rain Days Year 2016;Rainydays,Annual Normal Rainfall 1951 to 2000
+144.0;3;Rainfall;3.1;No.of Rainguage Stations Annual Normal Rainfall and Rain Days Year 2016;Normal Rainfall,Annual Normal Rainfall 1951 to 2000
+145.0;3;Rainfall;3.2;Actual Annual Rainfall;2005,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+146.0;3;Rainfall;3.2;Actual Annual Rainfall;2006,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+147.0;3;Rainfall;3.2;Actual Annual Rainfall;2007,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+148.0;3;Rainfall;3.2;Actual Annual Rainfall;2008,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+149.0;3;Rainfall;3.2;Actual Annual Rainfall;2009,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+150.0;3;Rainfall;3.2;Actual Annual Rainfall;2010,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+151.0;3;Rainfall;3.2;Actual Annual Rainfall;2011,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+152.0;3;Rainfall;3.2;Actual Annual Rainfall;2012,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+153.0;3;Rainfall;3.2;Actual Annual Rainfall;2013,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+154.0;3;Rainfall;3.2;Actual Annual Rainfall;2014,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+155.0;3;Rainfall;3.2;Actual Annual Rainfall;2015,Actual Annual Rainfallfrom 2005 to 2015 mms,Rainfall in mms
+156.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Geo- graphical Area,Land Utilisation 2014-15
+157.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Forest,Land Utilisation 2014-15
+158.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Land put to Non- Agricultural uses,Land not available for cultivation,Land Utilisation 2014-15
+159.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Barren cultivable land,Land not available for cultivation,Land Utilisation 2014-15
+160.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Total,Land not available for cultivation,Land Utilisation 2014-15
+161.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Cultivable-waste,Other Uncultivated Land,Land Utilisation 2014-15
+162.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Permanent Pasture,Other Uncultivated Land,Land Utilisation 2014-15
+163.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Trees and Groves,Other Uncultivated Land,Land Utilisation 2014-15
+164.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Total,Other Uncultivated Land,Land Utilisation 2014-15
+165.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Current,Fallow Land,Land Utilisation 2014-15 in Hectares
+166.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Other,Fallow Land,Land Utilisation 2014-15 in Hectares
+167.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Total,Fallow Land,Land Utilisation 2014-15 in Hectares
+168.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Net,Area Sown,Land Utilisation 2014-15 in Hectares
+169.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;More than once,Area Sown,Land Utilisation 2014-15 in Hectares
+170.0;4;Agriculture, Horticulture and Sericulture;4.1;Land Utilisation in Hectares;Total,Area Sown,Land Utilisation 2014-15 in Hectares
+171.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Length in KMs,Canals,2014-15 Net area irrigated Hectares
+172.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Canals,2014-15 Net area irrigated Hectares
+173.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Canals,2014-15 Net area irrigated Hectares
+174.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Nos,Tanks,2014-15 Net area irrigated Hectares
+175.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Tanks,2014-15 Net area irrigated Hectares
+176.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Tanks,2014-15 Net area irrigated Hectares
+177.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Nos,Wells,2014-15 Net area irrigated Hectares
+178.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Wells,2014-15 Net area irrigated Hectares
+179.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Wells,2014-15 Net area irrigated Hectares
+180.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Nos,Tube Wells,Net area Irrigated under Different Sources
+181.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Tube Wells,Net area Irrigated under Different Sources
+182.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Tube Wells,Net area Irrigated under Different Sources
+183.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Nos,Lift Irrigation,Net area Irrigated under Different Sources
+184.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Lift Irrigation,Net area Irrigated under Different Sources
+185.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Lift Irrigation,Net area Irrigated under Different Sources
+186.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Other Sources,Net area Irrigated under Different Sources
+187.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Other Sources,Net area Irrigated under Different Sources
+188.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Gross Irrigated Area,Total,Net area Irrigated under Different Sources
+189.0;4;Agriculture, Horticulture and Sericulture;4.2;Gross and Net area Irrigated under Different Sources;Net Area Irrigated,Total,Net area Irrigated under Different Sources
+190.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Paddy,Area under Cereals Hect.,Area under principal crops In Hect.
+191.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Jowar,Area under Cereals Hect.,Area under principal crops In Hect.
+192.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Bajra,Area under Cereals Hect.,Area under principal crops In Hect.
+193.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Maize,Area under Cereals Hect.,Area under principal crops In Hect.
+194.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Ragi,Area under Cereals Hect.,Area under principal crops In Hect.
+195.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Wheat,Area under Cereals Hect.,Area under principal crops In Hect.
+196.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Other Cereals Minor Millets,Area under Cereals Hect.,Area under principal crops In Hect.
+197.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Total Cereals Minor millets,Area under Cereals Hect.,Area under principal crops In Hect.
+198.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Tur,pulses Hect,Area under principal crops
+199.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Horse Gram,pulses Hect,Area under principal crops
+200.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Black Gram,pulses Hect,Area under principal crops
+201.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Green Gram,pulses Hect,Area under principal crops
+202.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Avare,pulses Hect,Area under principal crops
+203.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15.;Cowpea,pulses Hect,Area under principal crops
+204.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Bengal Gram,pulses Hect,Area under principal crops
+205.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Others Pulses,pulses Hect,Area under principal crops
+206.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Total Pulses including Tur Bengalgram,pulses Hect,Area under principal crops
+207.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Total Food Grains,pulses Hect,Area under principal crops
+208.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Area under Total Fruits,Area under principal crops
+209.0;4;Agriculture, Horticulture and Sericulture;4.3;Area under principal crops Year 2014-15;Area under Total Vegetables,Area under principal crops
+210.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Ground Nut,Seeds Hect,Area under principal crops
+211.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Sun Flower,Seeds Hect,Area under principal crops
+212.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Safflower,Seeds Hect,Area under principal crops
+213.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Castor,Seeds Hect,Area under principal crops
+214.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Sesamum,Seeds Hect,Area under principal crops
+215.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Niger seed,Seeds Hect,Area under principal crops
+216.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Soyabean,Seeds Hect,Area under principal crops
+217.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Linseed,Seeds Hect,Area under principal crops
+218.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;other oil Seeds,Seeds Hect,Area under principal crops
+219.0;4;Agriculture, Horticulture and Sericulture;4.4;Area under Important Oil Seeds Year 2014-15;Total oil Seeds,Seeds Hect,Area under principal crops
+220.0;4;Agriculture, Horticulture and Sericulture;4.5;Area under Commercial Crops Year 2014-15;Cotton,Area under Commercial Crops in Hectares
+221.0;4;Agriculture, Horticulture and Sericulture;4.5;Area under Commercial Crops Year 2014-15;Sugar Cane,Area under Commercial Crops in Hectares
+222.0;4;Agriculture, Horticulture and Sericulture;4.5;Area under Commercial Crops Year 2014-15;Tobacco,Area under Commercial Crops in Hectares
+223.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Rice,Production of Cereals
+224.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Jowar,Production of Cereals
+225.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Bajra,Production of Cereals
+226.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Maize,Production of Cereals
+227.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Ragi,Production of Cereals
+228.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Wheat,Production of Cereals
+229.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Total Small Minor Millets,Production of Cereals
+230.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crops Year 2013-14 in Tonnes;Total Cereals Minor Millets,Production of Cereals
+231.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Tur,Production of Pulses In Tonnes
+232.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Horse Gram,Production of Pulses In Tonnes
+233.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Black Gram,Production of Pulses In Tonnes
+234.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Green Gram,Production of Pulses In Tonnes
+235.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Avare,Production of Pulses In Tonnes
+236.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Cowpea,Production of Pulses In Tonnes
+237.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Bengal Gram,Production of Pulses In Tonnes
+238.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Other Pulses,Production of Pulses In Tonnes
+239.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Total Pulses,Production of Pulses In Tonnes
+240.0;4;Agriculture, Horticulture and Sericulture;4.6;Production of Important Crop Year 2013-14 in Tonnes;Total Food Grains,Production of Pulses In Tonnes
+241.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Ground Nut,Production of Oil Seeds in tonnes
+242.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Sun Flower,Production of Oil Seeds in tonnes
+243.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Safflower,Production of Oil Seeds in tonnes
+244.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Castor,Production of Oil Seeds in tonnes
+245.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Sesamum,Production of Oil Seeds in tonnes
+246.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Linseed,Production of Oil Seeds in tonnes
+247.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Soya bean,Production of Oil Seeds in tonnes
+248.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Niger seed,Production of Oil Seeds in tonnes
+249.0;4;Agriculture, Horticulture and Sericulture;4.7;Production of Important Oil Seeds Year 2013-14 in Tonnes;Total oil Seeds,Production of Oil Seeds in tonnes
+250.0;4;Agriculture, Horticulture and Sericulture;4.8;Production of commercial crops in Tonnes Year 2013-14;Cotton
+251.0;4;Agriculture, Horticulture and Sericulture;4.8;Production of commercial crops in Tonnes Year 2013-14;Sugarcane
+252.0;4;Agriculture, Horticulture and Sericulture;4.8;Production of commercial crops in Tonnes Year 2013-14;Tobacco
+253.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Coconut Thousand nuts
+254.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Arecanut Processed
+255.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Cardamom
+256.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Pepper
+257.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Cashewnut Processed
+258.0;4;Agriculture, Horticulture and Sericulture;4.9;Year 2013-14 Production of Plantation crops In Tonnes;Cocoa in M.Tonnes
+259.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Banana
+260.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Mango
+261.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Lemon
+262.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Pine Apple
+263.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Guava
+264.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Grapes
+265.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Sapota
+266.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Poma- granate
+267.0;4;Agriculture, Horticulture and Sericulture;4.10;Production of Important Horticulture Crops Fruits Crops M.Tonnes Year 2014-15;Papaya
+268.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Potato
+269.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Tomato
+270.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Brinjal
+271.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Beans
+272.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Cluster Beans
+273.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Onion
+274.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Green Chillies
+275.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Total Leafy Vegetables
+276.0;4;Agriculture, Horticulture and Sericulture;4.11;Production of Important Vegetable Crops in.Tons Year 2014-15;Total Gourd Variety Vegetables
+277.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Rice,Yield Of Cereals K.g Hect
+278.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Jowar,Yield Of Cereals K.g Hect
+279.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Bajra,Yield Of Cereals K.g Hect
+280.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Maize,Yield Of Cereals K.g Hect
+281.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Ragi,Yield Of Cereals K.g Hect
+282.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Wheat,Yield Of Cereals K.g Hect
+283.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Total Small Millets,Yield Of Cereals K.g Hect
+284.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crops Year 201;Total Cereals Millets,Yield Of Cereals K.g Hect
+285.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Tur,Yield Of Pulses K.g Hect
+286.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Horse Gram,Yield Of Pulses K.g Hect
+287.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Black Gram,Yield Of Pulses K.g Hect
+288.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Green Gram,Yield Of Pulses K.g Hect
+289.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Avare,Yield Of Pulses K.g Hect
+290.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Cowpea,Yield Of Pulses K.g Hect
+291.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Bengal Gram,Yield Of Pulses K.g Hect
+292.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Other Pulses,Yield Of Pulses K.g Hect
+293.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Total Pulses,Yield Of Pulses K.g Hect
+294.0;4;Agriculture, Horticulture and Sericulture;4.12;Yield of Important Crop Year 2013-14;Total Food Grains,Yield Of Pulses K.g Hect
+295.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Ground Nut,Yield Of Oil Seeds K.g Hect
+296.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Sun Flower,Yield Of Oil Seeds K.g Hect
+297.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Safflower,Yield Of Oil Seeds K.g Hect
+298.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Castor,Yield Of Oil Seeds K.g Hect
+299.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Linseed,Yield Of Oil Seeds K.g Hect
+300.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Soyabean,Yield Of Oil Seeds K.g Hect
+301.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Sesamum,Yield Of Oil Seeds K.g Hect
+302.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Niger seed,Yield Of Oil Seeds K.g Hect
+303.0;4;Agriculture, Horticulture and Sericulture;4.13;Yield of Important Oil Seeds 2013-14;Total oil Seeds,Yield Of Oil Seeds K.g Hect
+304.0;4;Agriculture, Horticulture and Sericulture;4.14;Yield of Commercial crops in Kgs Hectare Year 2013-14;Cotton in Bales
+305.0;4;Agriculture, Horticulture and Sericulture;4.14;Yield of Commercial crops in Kgs Hectare Year 2013-14;Sugar Cane In Tonnes per Hectare
+306.0;4;Agriculture, Horticulture and Sericulture;4.14;Yield of Commercial crops in Kgs Hectare Year 2013-14;Tobacco
+307.0;4;Agriculture, Horticulture and Sericulture;4.15;Yield of Plantation crops in Kgs Hect Year 2013-14;Arecanut Processed
+308.0;4;Agriculture, Horticulture and Sericulture;4.15;Yield of Plantation crops in Kgs Hect Year 2013-14;Cardamom
+309.0;4;Agriculture, Horticulture and Sericulture;4.15;Yield of Plantation crops in Kgs Hect Year 2013-14;Pepper
+310.0;4;Agriculture, Horticulture and Sericulture;4.15;Yield of Plantation crops in Kgs Hect Year 2013-14;Cashewnut Processed
+311.0;4;Agriculture, Horticulture and Sericulture;4.15;Yield of Plantation crops in Kgs Hect Year 2013-14;Cocoa M.Tonnes Hect
+312.0;4;Agriculture, Horticulture and Sericulture;4.16;Distribution of chemical fertilizers In Tonnes Year 2015-16;Nitrozen
+313.0;4;Agriculture, Horticulture and Sericulture;4.16;Distribution of chemical fertilizers In Tonnes Year 2015-16;Phosphorus
+314.0;4;Agriculture, Horticulture and Sericulture;4.16;Distribution of chemical fertilizers In Tonnes Year 2015-16;Potash
+315.0;4;Agriculture, Horticulture and Sericulture;4.16;Distribution of chemical fertilizers In Tonnes Year 2015-16;Total
+316.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Paddy,Sowing Seeds distributed during 2015-16
+317.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Wheat,Sowing Seeds distributed during 2015-16
+318.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Jowar,Sowing Seeds distributed during 2015-16
+319.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Ragi,Sowing Seeds distributed during 2015-16
+320.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Maize,Sowing Seeds distributed during 2015-16
+321.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Bajra,Sowing Seeds distributed during 2015-16
+322.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Bengal Gram,Sowing Seeds distributed during 2015-16
+323.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Safflower,Sowing Seeds distributed during 2015-16
+324.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Tur,Sowing Seeds distributed during 2015-16
+325.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Black Gram,Sowing Seeds distributed during 2015-16
+326.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Grean Gram,Sowing Seeds distributed during 2015-16
+327.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Cowpea,Sowing Seeds distributed during 2015-16
+328.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Ground Nut,Sowing Seeds distributed during 2015-16
+329.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Sun Flower,Sowing Seeds distributed during 2015-16
+330.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Soya bean,Sowing Seeds distributed during 2015-16
+331.0;4;Agriculture, Horticulture and Sericulture;4.17;Sowing Seeds Distribution;Total Quantity,Sowing Seeds distributed during 2015-16
+332.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Area undermulberry Hects
+333.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Cocoon Production intonnes
+334.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;No.of villages engaged on Mulberry
+335.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Sc,No.of farmers engaged in occupation
+336.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;St,No.of farmers engaged in occupation
+337.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Others,No.of farmers engaged in occupation
+338.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Total,No.of farmers engaged in occupation
+339.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Value of Silk Produced Rs.inlakhs
+340.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Cocoon Markets
+341.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Sc,Set 1
+342.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;St,Set 1
+343.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Sthers,Others,Set 1
+344.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Total,Set 1
+345.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Sc,Set 2
+346.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;St,Set 2
+347.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Others,Set 2
+348.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Total,Set 2
+349.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Scp,Beneficiaries under Special Component and Tribal Sub Plan
+350.0;4;Agriculture, Horticulture and Sericulture;4.18;Sericulture Year 2015-16 in Nos.;Tsp,Beneficiaries under Special Component and Tribal Sub Plan
+351.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Indigenious,Cattle,Livestock Census 2012
+352.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Exotic,Cattle,Livestock Census 2012
+353.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Cross Breed,Cattle,Livestock Census 2012
+354.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Total,Cattle,Livestock Census 2012
+355.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Buffaloes,Livestock Census 2012
+356.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Indigenious,heeps,Livestock Census 2012
+357.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Exotic,heeps,Livestock Census 2012
+358.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Cross Breed,heeps,Livestock Census 2012
+359.0;5;Animal Husbandry;5.1;Livestock Census 2012 In Nos;Total,heeps,Livestock Census 2012
+360.0;5;Animal Husbandry;5.1;Livestock Census 2012;Goats,Livestock Census 2012
+361.0;5;Animal Husbandry;5.1;Livestock Census 2012;Indigenious,Pigs,Livestock Census 2012
+362.0;5;Animal Husbandry;5.1;Livestock Census 2012;Exotic,Pigs,Livestock Census 2012
+363.0;5;Animal Husbandry;5.1;Livestock Census 2012;Cross Breed,Pigs,Livestock Census 2012
+364.0;5;Animal Husbandry;5.1;Livestock Census 2012;Total,Pigs,Livestock Census 2012
+365.0;5;Animal Husbandry;5.1;Livestock Census 2012;Rabbits,Livestock Census 2012
+366.0;5;Animal Husbandry;5.1;Livestock Census 2012;Dogs,Livestock Census 2012
+367.0;5;Animal Husbandry;5.1;Livestock Census 2012;Others,Livestock Census 2012
+368.0;5;Animal Husbandry;5.1;Livestock Census 2012;Total Live Stock,Livestock Census 2012
+369.0;5;Animal Husbandry;5.1;Livestock Census 2012;Poultry,Livestock Census 2012
+370.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Veterinary Hospitals Kvs/rl,Veterinary Institutions
+371.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Dispensaries,Veterinary Institutions
+372.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Primary Veterinary Centres,Veterinary Institutions
+373.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Mobile Dispensaries,Veterinary Institutions
+374.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Artificial Insemination Centres,Veterinary Institutions
+375.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Others,Veterinary Institutions
+376.0;5;Animal Husbandry;5.2;eterinary Hospitals on 31-03-2016 In Nos.;Total,Veterinary Institutions
+377.0;5;Animal Husbandry;5.3;Artificial Insemination and Dairy Production Year 2015-16;Artificial Insemination Done Numbers
+378.0;5;Animal Husbandry;5.3;Artificial Insemination and Dairy Production Year 2015-16;No.of animals treated
+379.0;5;Animal Husbandry;5.3;Artificial Insemination and Dairy Production Year 2015-16;Production of Milk in Thousand Tonnes
+380.0;5;Animal Husbandry;5.3;Artificial Insemination and Dairy Production Year 2015-16;Production of Eggs. in Lakhs Nos
+381.0;5;Animal Husbandry;5.3;Artificial Insemination and Dairy Production Year 2015-16;Meat Production in Tonnes
+382.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;Fish catch in tonnes
+383.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;No.,Ice Plants
+384.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;Capacity Tonnes day,Ice Plants
+385.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;No.,Cold storages
+386.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;Capacity Tonnes,Cold storages
+387.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;Panchayat Raj,Total tanks for fisheries
+388.0;5;Animal Husbandry;5.4;Fisheries Year 2015-2016;Minor Irrigation,Total tanks for fisheries
+389.0;5;Animal Husbandry;5.4;Fisheries Year 2015-16;Full Time,Families involved in fisheries
+390.0;5;Animal Husbandry;5.4;Fisheries Year 2015-16;Part Time,Families involved in fisheries
+391.0;5;Animal Husbandry;5.4;Fisheries Year 2015-16;No.of Beneficiaries under Mathsasrayascheme
+392.0;5;Animal Husbandry;5.4;Fisheries Year 2015-16;Fish lets In lakhs
+393.0;5;Animal Husbandry;5.4;Fisheries Year 2015-16;Fish markets No
+394.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Factories,Readymade Garments,Factories
+395.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Male,Employee,Readymade Garments,Factories
+396.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Female,Employee,Readymade Garments,Factories
+397.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Factories,Textiles,Factories
+398.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Male,Employee,Textiles,Factories
+399.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Female,Employee,Textiles,Factories
+400.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Factories,Chemical,Factories
+401.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Male,Employees,Chemical,Factories
+402.0;6;Industries;6.1;Number of Factories Employees on 31-3-2016 In Numbers;Female,Employees,Chemical,Factories
+403.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Factories,Engineering,Factories
+404.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Male,Employees,Engineering,Factories
+405.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Female,Employees,Engineering,Factories
+406.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Factories,Others,Factories
+407.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Male,Employees,Others,Factories
+408.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Female,Employees,Others,Factories
+409.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Factories,Total,Factories
+410.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Male,Employees,Total,Factories
+411.0;6;Industries;6.1;Numberof Factories Employees on 31-3-2016 In Numbers;Female,Employees,Total,Factories
+412.0;6;Industries;6.2;Number of Industrial Estates Sheds and Plots on 31-3-2016 in Nos;Estates,Factories
+413.0;6;Industries;6.2;Number of Industrial Estates Sheds and Plots on 31-3-2016 in Nos;Sheds,Factories
+414.0;6;Industries;6.2;Number of Industrial Estates Sheds and Plots on 31-3-2016 in Nos;Plots,Factories
+415.0;6;Industries;6.3;Small Scale Industrial Units Setup Year 2015-16;Units,Current year 2015-16
+416.0;6;Industries;6.3;Small Scale Industrial Units Setup Year 2015-16;Employment,Current year 2015-16
+417.0;6;Industries;6.3;Small Scale Industrial Units Setup Year 2015-16;Units,Cumulative upto 2015-16
+418.0;6;Industries;6.3;Small Scale Industrial Units Setup Year 2015-16;Employment,Cumulative upto 2015-16
+419.0;6;Industries;6.3;Small Scale Industrial Units Setup Year 2015-16;No.of enterprises engaged in trade hotels and transport activities
+420.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;No.,Automobiles
+421.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;Total workers,Automobiles
+422.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;No.,Electricals Electronics
+423.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;Total workers,Electricals Electronics
+424.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;No.,Chemicals
+425.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre As on 31-03-2016;Total workers,Chemicals
+426.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre on 31-03-2016;No.,Food Intoxicants
+427.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre on 31-03-2016;Total workers,Food Intoxicants
+428.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre on 31-03-2016;No.,Leather
+429.0;6;Industries;6.4;Small Scale units registered in District Industrial Centre on 31-03-2016;Total workers,Leather
+430.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Paper and Printing
+431.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;g Total workers,Paper and Printing
+432.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Rubber and Plastic
+433.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;Total workers,Rubber and Plastic
+434.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Textiles
+435.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;g Total workers,Textiles
+436.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Wood
+437.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;Total workers,Wood
+438.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Others
+439.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;Total workers,Others
+440.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Other Service Activities
+441.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;Total workers,Other Service Activities
+442.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;No.,Total
+443.0;6;Industries;6.4;Small Scale units gistered in District Industrial Centre on 31-03-2016;Total workers,Total
+444.0;6;Industries;6.5;Sugar Factories No.of Working Sugar Factories Cane Crushed 01-04-2015 to 31-03-2016;Working Factories Nos.,No.of Working Sugar Factories Cane Crushed
+445.0;6;Industries;6.5;Sugar Factories No.of Working Sugar Factories Cane Crushed 01-04-2015 to 31-03-2016;Cane Crushed in MTs,No.of Working Sugar Factories Cane Crushed
+446.0;6;Industries;6.5;Sugar Factories No.of Working Sugar Factories Cane Crushed 01-04-2015 to 31-03-2016;Sugar Produced in MTs,No.of Working Sugar Factories Cane Crushed
+447.0;7;Banks;7.1;Flow of Bank Credit to Agriculture and Allied Sector from R.r.b Rs. in Lakhs on 31-03-2016;No.of Branches,Regional Rural Banks
+448.0;7;Banks;7.1;Flow of Bank Credit to Agriculture and Allied Sector from R.r.b Rs. in Lakhs on 31-03-2016;Agriculture Loan,Regional Rural Banks
+449.0;7;Banks;7.1;Flow of Bank Credit to Agriculture and Allied Sector from R.r.b Rs. in Lakhs on 31-03-2016;Other Loan,Regional Rural Banks
+450.0;7;Banks;7.1;Flow of Bank Credit to Agriculture and Allied Sector from R.r.b Rs. in Lakhs on 31-03-2016;Total Loan,Regional Rural Banks
+451.0;7;Banks;7.1;Flow of Bank Credit to Agriculture and Allied Sector from R.r.b Rs. in Lakhs on 31-03-2016;Deposits,Regional Rural Banks
+452.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;offices,Public Sector banks
+453.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Deposits,Public Sector banks
+454.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Credits,Public Sector banks
+455.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;offices,Foreign Banks
+456.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Deposits,Foreign Banks
+457.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Credits,Foreign Banks
+458.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;offices,Regional Rural Banks
+459.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Deposits,Regional Rural Banks
+460.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Credits,Regional Rural Banks
+461.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;offices,Private Sector Banks
+462.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Deposits,Private Sector Banks
+463.0;7;Banks;7.2;District and Bank Group-Wise distribution of number of reporting offices Aggregate deposits and gross bank credit of all scheduled commercial banks -March 2016 in Million;Credits,Private Sector Banks
+464.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;No.of Dcc Banks,Dcc Banks
+465.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;No.of members Loan taken,Dcc Banks
+466.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;Agri-culture Loan,Dcc Banks
+467.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;Other Loan,Dcc Banks
+468.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;Total Loan,Dcc Banks
+469.0;8;Co-operation and Agricultural Marketing;8.1;D.c.c. Banks on 31-03-2016 Rs.in lakhs;Deposits,Dcc Banks
+470.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;No.of P.l.d. Banks,Kscard Pld Banks
+471.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;No.of members Loan taken,Kscard Pld Banks
+472.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;Agri-cultur Loan,Kscard Pld Banks
+473.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;Other Loan,Kscard Pld Banks
+474.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;Total Loan,Kscard Pld Banks
+475.0;8;Co-operation and Agricultural Marketing;8.2;Kscard Pld Bank on 31-03-2016 Rs. in lakhs;Deposits,Kscard Pld Banks
+476.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Society,Agricultural,Credit Co-operative Societies
+477.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Members,Agricultural,Credit Co-operative Societies
+478.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Society,Non-Agricultural,Credit Co-operative Societies
+479.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Members,Non-Agricultural,Credit Co-operative Societies
+480.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Society,Total,Credit Co-operative Societies
+481.0;8;Co-operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2016;Members,Total,Credit Co-operative Societies
+482.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Society,Marketing,Non-Credit Co-operative Societies Nos
+483.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Members,Marketing,Non-Credit Co-operative Societies Nos
+484.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Society,Housing,Non-Credit Co-operative Societies Nos
+485.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Members,Housing,Non-Credit Co-operative Societies Nos
+486.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Society,Milk,Non-Credit Co-operative Societies Nos
+487.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Members,Milk,Non-Credit Co-operative Societies Nos
+488.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Society,Others,Non-Credit Co-operative Societies Nos
+489.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Members,Others,Non-Credit Co-operative Societies Nos
+490.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Society,Total,Non-Credit Co-operative Societies Nos
+491.0;8;Co-operation and Agricultural Marketing;8.4;Non-Credit Co-operative Societies as on 31-03-2016;Members,Total,Non-Credit Co-operative Societies Nos
+492.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016;Multiaxled Ariculated Vehicles,Goods vehicles
+493.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016;Trucks Lorries,Goods vehicles
+494.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016;Four Wheelers,Goods vehicles
+495.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016;wheelers,Goods vehicles
+496.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016;Total,Goods vehicles
+497.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Stage Carriages,Buses
+498.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Contract Vehicles,Buses
+499.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Private Service Vehicles,Buses
+500.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Educational Institutions Vehicles,Buses
+501.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Other Buses,Buses
+502.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Motor Cabs,Taxies,Motor vehicles in Numbers
+503.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Maxi Cabs,Taxies,Motor vehicles in Numbers
+504.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Other Cabs,Taxies,Motor vehicles in Numbers
+505.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Three seated vehicles Auto Rikshaws,Passengers Vehicle,Motor vehicles in Numbers
+506.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Four to six seated vehicle,Passengers Vehicle,Motor vehicles in Numbers
+507.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Scooters,Two Wheelers,Motor vehicles in Numbers
+508.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Mopeds,Two Wheelers,Motor vehicles in Numbers
+509.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Motor Cycles,Two Wheelers,Motor vehicles in Numbers
+510.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Total,Two Wheelers,Motor vehicles in Numbers
+511.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Cars,Motor vehicles
+512.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Jeeps,Motor vehicles
+513.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Omini Bus,Motor vehicles
+514.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Tractors,Motor vehicles
+515.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Trailers,Motor vehicles
+516.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Vehicles carrying construction materials
+517.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Others
+518.0;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2016 in Numbers;Total
+519.0;9;Transport and Communication;9.2;P.w.d. Road Length on 31-03-2016;National Highwa,P.w.d. Road Length in Km
+520.0;9;Transport and Communication;9.2;P.w.d. Road Length on 31-03-2016;State Highway,P.w.d. Road Length in Km
+521.0;9;Transport and Communication;9.2;P.w.d. Road Length on 31-03-2016;District Roads,P.w.d. Road Length in Km
+522.0;9;Transport and Communication;9.2;P.w.d. Road Length on 31-03-2016;Major Bridges,P.w.d. Road Length in Km
+523.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;Pakka,Panchayat Roads,Rural Roads Length on 31-03-2016 in kms
+524.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;Water Bound Macadam Road,Panchayat Roads,Rural Roads Length on 31-03-2016 in kms
+525.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;Kacha,Panchayat Roads,Rural Roads Length on 31-03-2016 in kms
+526.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;Total,Panchayat Roads,Rural Roads Length on 31-03-2016 in kms
+527.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;Total No.Of Habitation,No.of Habitations access to all weather raods 2015-16
+528.0;9;Transport and Communication;9.3;Rural Roads Length and Number of Habitations access to All Weather Roads;No.of Habitations access to all weather raods upto 31-03-2016,No.of Habitations access to all weather raods 2015-16
+529.0;9;Transport and Communication;9.4;Post Office Telephones Exchanges Telephones on 31-03-2016;Post Offices,Communication In Numbers
+530.0;9;Transport and Communication;9.4;Post Office Telephones Exchanges Telephones on 31-03-2016;Telephones Exchanges,Communication In Numbers
+531.0;9;Transport and Communication;9.4;Post Office Telephones Exchanges Telephones on 31-03-2016;Telephones,Communication In Numbers
+532.0;9;Transport and Communication;9.4;Post Office Telephones Exchanges Telephones on 31-03-2016;Mobile Phones,Communication In Numbers
+533.0;9;Transport and Communication;9.4;Post Office Telephones Exchanges Telephones on 31-03-2016;Internet Connections,Communication In Numbers
+534.0;10;Education;10.1;Literates per 2011 Census;Male,Rural,Literates
+535.0;10;Education;10.1;Literates per 2011 Census;Female,Rural,Literates
+536.0;10;Education;10.1;Literates per 2011 Census;Total,Rural,Literates
+537.0;10;Education;10.1;Literates per 2011 Census;Male,Urban,Literates
+538.0;10;Education;10.1;Literates per 2011 Census;Female,Urban,Literates
+539.0;10;Education;10.1;Literates per 2011 Census;Total,Urban,Literates
+540.0;10;Education;10.1;Literates per 2011 Census;Male,Total,Literates
+541.0;10;Education;10.1;Literates per 2011 Census;Female,Total,Literates
+542.0;10;Education;10.1;Literates per 2011 Census;Total,Literates
+543.0;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Rural,Literacy rate
+544.0;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Rural,Literacy rate
+545.0;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Rural,Literacy rate
+546.0;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Urban,Literacy rate
+547.0;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Urban,Literacy rate
+548.0;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Urban,Literacy rate
+549.0;10;Education;10.2;Literacy Rate % per 2011 Census;Male,Total,Literacy rate
+550.0;10;Education;10.2;Literacy Rate % per 2011 Census;Female,Total,Literacy rate
+551.0;10;Education;10.2;Literacy Rate % per 2011 Census;Total,Literacy rate
+552.0;10;Education;10.2;Literacy Rate % per 2011 Census;Rank
+553.0;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Number of Schools
+554.0;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Boys,Total Enrolment 1-5th standard,Lower Primary School
+555.0;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Girls,Total Enrolment 1-5th standard,Lower Primary School
+556.0;10;Education;10.3;No.of Lower Primary Schools and Students Year 2015-16 on 30-09-2015;Total,Total Enrolment 1-5th standard,Lower Primary School
+557.0;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Number of Schools
+558.0;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Boys,Upper Primary Schools Total Enrolment
+559.0;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Girls,Upper Primary Schools Total Enrolment
+560.0;10;Education;10.4;No.of Higher Primary Schools and Students on 30-09-2015;Total,Upper Primary Schools Total Enrolment
+561.0;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Number of Schools
+562.0;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Boys,Total Enrolment 9-10th standard,High Schools
+563.0;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Girls,Total Enrolment 9-10th standard,High Schools
+564.0;10;Education;10.5;o Sf igh Schools and Students on 30-09-2015;Total,Total Enrolment 9-10th standard,High Schools
+565.0;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Number of Total
+566.0;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Male,No.of Primary School Teachers
+567.0;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Female,No.of Primary School Teachers
+568.0;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Total,No.of Primary School Teachers
+569.0;10;Education;10.6;No. of Primar School Teachers Student Teacher Ratio on 30-09-2015;Student Teacher Ratio
+570.0;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Number of Total Enrolment
+571.0;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Male,No.of High School Teacher
+572.0;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Female,No.of High School Teacher
+573.0;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Total,No.of High School Teacher
+574.0;10;Education;10.7;No. of High School Teachers Student Teacher Ratio on 30-09-2015;Student Teacher Ratio
+575.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Boys,No.of Children age group between 6 to 14
+576.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Girls,No.of Children age group between 6 to 14
+577.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Total,No.of Children age group between 6 to 14
+578.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Boys,j A7z 14 No.of Children out of school age group between 7 to 14
+579.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Girls,j A7z 14 No.of Children out of school age group between 7 to 14
+580.0;10;Education;10.8;No. of Children in the age group 6 to 14 years and out of school Year 2015-16.;Total,j A7z 14 No.of Children out of school age group between 7 to 14
+581.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;No.of Primary Schools,Infrastructure Facilities in Primary Schools
+582.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Boys Toilet,Infrastructure Facilities in Primary Schools
+583.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Girls Toilet,Infrastructure Facilities in Primary Schools
+584.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Electricity,Infrastructure Facilities in Primary Schools
+585.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 in Nos.;Play Ground,Infrastructure Facilities in Primary Schools
+586.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Ramp,Infrastructure Facilities in Primary Schools
+587.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Compound,Infrastructure Facilities in Primary Schools
+588.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Drinking Water,Infrastructure Facilities in Primary Schools
+589.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Library,Infrastructure Facilities in Primary Schools
+590.0;10;Education;10.9;Infrastructure Facilities in Primary schools on 30-09-2015 In Nos.;Computer,Infrastructure Facilities in Primary Schools
+591.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;No.of High Schools,Infrastructure Facilities in High Schools
+592.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Boys Toilet,Infrastructure Facilities in High Schools
+593.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Girls Toilet,Infrastructure Facilities in High Schools
+594.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Electricity,Infrastructure Facilities in High Schools
+595.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 in Nos.;Play Ground,Infrastructure Facilities in High Schools
+596.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Ramp,Infrastructure Facilitiesin High Schools
+597.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Compound,Infrastructure Facilitiesin High Schools
+598.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Drinking Water,Infrastructure Facilitiesin High Schools
+599.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Library,Infrastructure Facilitiesin High Schools
+600.0;10;Education;10.10;Infrastructure Facilities in High schools on 30-09-2015 In Nos.;Computer,Infrastructure Facilitiesin High Schools
+601.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;No of Colleges
+602.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Men,No. of Lecturers
+603.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Women,No. of Lecturers
+604.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Government,No.Of Students in Pu colleges 1 2nd Year
+605.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Government,No.Of Students in Pu colleges 1 2nd Year
+606.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Aided,Private,No.Of Students in Pu colleges 1 2nd Year
+607.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Aided,Private,No.Of Students in Pu colleges 1 2nd Year
+608.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Unaided,Private,No.Of Students in Pu colleges 1 2nd Year
+609.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Unaided,Private,No.Of Students in Pu colleges 1 2nd Year
+610.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Boys,Total Govt Private,No.Of Students in Pu colleges 1 2nd Year
+611.0;10;Education;10.11;No.of P U Colleges Students and Lecturers Year 2015-16 In Nos;Girls,Total Govt Private,No.Of Students in Pu colleges 1 2nd Year
+612.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;No.of Colleges,General Degree Colleges-Government
+613.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Boys,Ist year to final year,General Degree Colleges-Government
+614.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Girls,Ist year to final year,General Degree Colleges-Government
+615.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Total,Ist year to final year,General Degree Colleges-Government
+616.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;No.of Colleges,General Degree Colleges Private
+617.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Boys,Ist year to final year aide,General Degree Colleges Private
+618.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Girls,Ist year to final year aide,General Degree Colleges Private
+619.0;10;Education;10.12;No.of General Degree Colleges and Students 2015-16 In Nos;Total,Ist year to final year aide,General Degree Colleges Private
+620.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Colleges,Indian System of Medicine Colleges Government Ist year to final year
+621.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Boys,Students,Indian System of Medicine Colleges Government Ist year to final year
+622.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Girls,Students,Indian System of Medicine Colleges Government Ist year to final year
+623.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Total,Students,Indian System of Medicine Colleges Government Ist year to final year
+624.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Colleges,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+625.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Boys,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+626.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Girls,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+627.0;10;Education;10.13;No. of Medical Colleges and Students Year 2015-16 in Nos.;Total,Students,Indian System of Medicine Colleges Private Ist year to final year aided unaided
+628.0;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Number of Colleges,Medical Colleges Allopathy,Cfl
+629.0;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Students Intake,Medical Colleges Allopathy,Cfl
+630.0;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Number of Colleges,Dental Colleges
+631.0;10;Education;10.13;No. of Medical Colleges and Students Medical Colleges Year 2015-16 in Nos.;Students Intake,Dental Colleges
+632.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;No.of Institutions,Polytechnic- Government
+633.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Male,Istyear,Polytechnic- Government
+634.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Female,Istyear,Polytechnic- Government
+635.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Total,Istyear,Polytechnic- Government
+636.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;No.of Institutions,Polytechnic-Private Aided Unaided
+637.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Male,Ist year,Polytechnic-Private Aided Unaided
+638.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Female,Ist year,Polytechnic-Private Aided Unaided
+639.0;10;Education;10.14;No.of Polytechnic Colleges and Students Year- 2015-16;Total,Ist year,Polytechnic-Private Aided Unaided
+640.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;No.of P U Colleges,Engineering- Government
+641.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Male,Ist year,Engineering- Government
+642.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Female,Ist year,Engineering- Government
+643.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Total,Ist year,Engineering- Government
+644.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;No.of P U Colleges,Engineering- Private Aided
+645.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Male,Ist year,Engineering- Private Aided
+646.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Female,Ist year,Engineering- Private Aided
+647.0;10;Education;10.15;No.of Engineering Colleges and Students Year- 2015-16;Total,Ist year,Engineering- Private Aided
+648.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,Taluka Hq Hospitals
+649.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,Taluka Hq Hospitals
+650.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,District Hospitals
+651.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,District Hospitals
+652.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,Other Hospitals under Hfw
+653.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,Other Hospitals under Hfw
+654.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,Autonomous Teaching Hospitals
+655.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,Autonomous Teaching Hospitals
+656.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,Others CHCs
+657.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,Others CHCs
+658.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Nos.,Total
+659.0;11;Health & Family welfare Services;11.1;Taluk District Autonomous Teaching Other Hospitals on 31-03-2016 In Nos.;Beds,Total
+660.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;Govt.,No.of Hospitals
+661.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;Nursing Home Hospitals,Private,No.of Hospitals
+662.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;Total,No.of Hospitals
+663.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;No.Govt. Doctors
+664.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;No.of beds in Govt. Hospitals
+665.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;Medical Shops
+666.0;11;Health & Family welfare Services;11.2;No.of Hospitals Doctors Beds on 31-03-2016 In Nos.;Blood Banks
+667.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Nos.,Allopathy Hospitals
+668.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Beds,Allopathy Hospitals
+669.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Nos.,Indian System of Medicine Hospitals
+670.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Beds,Indian System of Medicine Hospitals
+670.1;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Nos,Indian System of Medicine
+671.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;No.of Pvt. Hospitals Including Nursing Homes Clinics
+672.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Nos.,Primary Health Centres
+673.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Beds,Primary Health Centres
+674.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Nos.,Community Health Centres
+675.0;11;Health & Family welfare Services;11.3;Allopathy Hospitals Indian System of Medicine Hospitals Pvt. Hospitals Including Nursing Homes Clinics Primary Health Centres Community Health Centres on 31-03-2016 In Nos.;Beds,Community Health Centres
+676.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;D.p.t.,Immunisation
+677.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;Polio,Immunisation
+678.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;Bcg,Immunisation
+679.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;Measles,Immunisation
+680.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;T.t,Immunisation
+681.0;11;Health & Family welfare Services;11.4;Immunisation given to Children Year 2015-16 In Nos.;Pentavalent includes Hepatities D.p.t,Immunisation
+682.0;11;Health & Family welfare Services;11.5;Family Planning Measures Year 2015-16 In Nos;Vasectomy,Sterlisation
+683.0;11;Health & Family welfare Services;11.5;Family Planning Measures Year 2015-16 In Nos;Tubectomy,Sterlisation
+684.0;11;Health & Family welfare Services;11.5;Family Planning Measures Year 2015-16 In Nos;I.u.d user,Family Planing Measures in users
+685.0;11;Health & Family welfare Services;11.5;Family Planning Measures Year 2015-16 In Nos;C.c. user,Family Planing Measures in users
+686.0;11;Health & Family welfare Services;11.5;Family Planning Measures Year 2015-16 In Nos;O.p user,Family Planing Measures in users
+687.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Male,identified Aids patients,Aids Control Programme
+688.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Female,identified Aids patients,Aids Control Programme
+689.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Ts/tg,identified Aids patients,Aids Control Programme
+690.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Total,identified Aids patients,Aids Control Programme
+691.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Male,No.of Patients Cured,Aids Control Programme
+692.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Female,No.of Patients Cured,Aids Control Programme
+693.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Ts/tg,No.of Patients Cured,Aids Control Programme
+694.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Total,No.of Patients Cured,Aids Control Programme
+695.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Male,Death Occurred,Aids Control Programme
+696.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Female,Death Occurred,Aids Control Programme
+697.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Ts/tg,Death Occurred,Aids Control Programme
+698.0;11;Health & Family welfare Services;11.5;Aids Leprosy Tb Control Programmes Year 2015-16 in Nos.;Total,Death Occurred,Aids Control Programme
+699.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Male,Identified Leprosy Patients,Leprosy Control Programme
+700.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Female,Identified Leprosy Patients,Leprosy Control Programme
+701.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Total,Identified Leprosy Patients,Leprosy Control Programme
+702.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Male,No.of Patients Cured,Leprosy Control Programme
+703.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Female,No.of Patients Cured,Leprosy Control Programme
+704.0;11;Health & Family welfare Services;11.5;Family Planning Measures and Aids prosy Tb Control Programmes As on 31-03-2016;Total,No.of Patients Cured,Leprosy Control Programme
+705.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Male,No of Identified T.B.patients,T.B.Control Programme
+706.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Female,No of Identified T.B.patients,T.B.Control Programme
+707.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Total,No of Identified T.B.patients,T.B.Control Programme
+708.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Male,Patients Cured,T.B.Control Programme
+709.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Female,Patients Cured,T.B.Control Programme
+710.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Total,Patients Cured,T.B.Control Programme
+711.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Male,Death Occurred,T.B.Control Programme
+712.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Female,Death Occurred,T.B.Control Programme
+713.0;11;Health & Family welfare Services;11.5;Tb Control Programmes on 31-03-2016 in Nos.;Total,Death Occurred,T.B.Control Programme
+714.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;Fru Unit First Referal Units
+715.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;No.of Vehicals,108 Ambulances
+716.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;No.ofbenefited patients,108 Ambulances
+717.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;Nos.,24 hours and 7 days working Hospitals
+718.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;No.of delivaries in this Hospitals,24 hours and 7 days working Hospitals
+719.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;No.of benificiaries in Jananni Suraksh Yojana
+720.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;No.of benificiaries medical kit
+721.0;11;Health & Family welfare Services;11.6;Different Health Facilities As on 31-03-2016 in Nos.;Maternal Mortality Death
+722.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Nos,Boys,Government Pre-Matric
+723.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Students,Boys,Government Pre-Matric
+724.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Nos,Girls,Government Pre-Matric
+725.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Students,Girls,Government Pre-Matric
+726.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Nos,Total,Government Pre-Matric
+727.0;12;Social welfare;2.1;Scheduled Caste As on 31-03-2016 in Nos.;Students,Total,Government Pre-Matric
+728.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Government Post-Matric
+729.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Boys,Government Post-Matric
+730.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Government Post-Matric
+731.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Girls,Government Post-Matric
+732.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Total,Government Post-Matric
+733.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Total,Government Post-Matric
+734.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Aided Pre-Matric
+735.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Boys,Aided Pre-Matric
+736.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Aided Pre-Matric
+737.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Girls,Aided Pre-Matric
+738.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Nos,Total,Aided Pre-Matric
+739.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos.;Students,Total,Aided Pre-Matric
+740.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Nos,Boys,Aided Post-Matric
+741.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Students,Boys,Aided Post-Matric
+742.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Nos,Girls,Aided Post-Matric
+743.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Students,Girls,Aided Post-Matric
+744.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Nos,Total,Aided Post-Matric
+745.0;12;Social welfare;12.1;Scheduled Caste Student Hostels on 31-03-2016 in Nos;Students,Total,Aided Post-Matric
+746.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Nos,Boys,Government Pre-Matric
+747.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Students,Boys,Government Pre-Matric
+748.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Nos,Girls,Government Pre-Matric
+749.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Students,Girls,Government Pre-Matric
+750.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Nos,Total,Government Pre-Matric
+751.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos;Students,Total,Government Pre-Matric
+752.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Government Post-Matric
+753.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Boys,Government Post-Matric
+754.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Government Post-Matric
+755.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Girls,Government Post-Matric
+756.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Total,Government Post-Matric
+757.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Total,Government Post-Matric
+758.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Aided Pre-Matric
+759.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Boys,Aided Pre-Matric
+760.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Aided Pre-Matric
+761.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Girls,Aided Pre-Matric
+762.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Nos,Total,Aided Pre-Matric
+763.0;12;Social welfare;12.2;Scheduled Tribe Student Hostels on 31-03-2016 in Nos.;Students,Total,Aided Pre-Matric
+764.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Aided Post-Matric
+765.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Students,Boys,Aided Post-Matric
+766.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Aided Post-Matric
+767.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Students,Girls,Aided Post-Matric
+768.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Nos,Total,Aided Post-Matric
+769.0;12;Social welfare;12.2;Scheduled Tribes Student Hostels on 31-03-2016 in Nos.;Students,Total,Aided Post-Matric
+770.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Nos,Boys,Government Pre-Matric
+771.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Students,Boys,Government Pre-Matric
+772.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Nos,Girls,Government Pre-Matric
+773.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Students,Girls,Government Pre-Matric
+774.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Nos,Total,Government Pre-Matric
+775.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016 in Nos.;Students,Total,Government Pre-Matric
+776.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Boys,Government Post-Matric
+777.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Boys,Government Post-Matric
+778.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Girls,Government Post-Matric
+779.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Girls,Government Post-Matric
+780.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Total,Government Post-Matric
+781.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Total,Government Post-Matric
+782.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Boys,Aided Pre-Matric
+783.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Boys,Aided Pre-Matric
+784.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Girls,Aided Pre-Matric
+785.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Girls,Aided Pre-Matric
+786.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Total,Aided Pre-Matric
+787.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Total,Aided Pre-Matric
+788.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Boys,Aided Post-Matric
+789.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Boys,Aided Post-Matric
+790.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Girls,Aided Post-Matric
+791.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Girls,Aided Post-Matric
+792.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Nos,Total,Aided Post-Matric
+793.0;12;Social welfare;12.3;Backward Class Student Hostels on 31-03-2016;Students,Total,Aided Post-Matric
+794.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;Numbers,Scheduled Caste Class Ashrama Residential Students Hostels
+795.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;students,Scheduled Caste Class Ashrama Residential Students Hostels
+796.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;Numbers,Scheduled Tribe Ashram Residential Students Hostels
+797.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;students,Scheduled Tribe Ashram Residential Students Hostels
+798.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;Numbers,Backward Class Ashrama Residential Students Hostel
+799.0;12;Social welfare;12.4;Ashrama Residential Students Hostels Year 2015-16;students,Backward Class Ashrama Residential Students Hostel
+800.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Boys,Government Pre-Matric
+801.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Boys,Government Pre-Matric
+802.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Girls,Government Pre-Matric
+803.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Girls,Government Pre-Matric
+804.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Total,Government Pre-Matric
+805.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Total,Government Pre-Matric
+806.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Boys,Government Post-Matric
+807.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Boys,Government Post-Matric
+808.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Girls,Government Post-Matric
+809.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Girls,Government Post-Matric
+810.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Total,Government Post-Matric
+811.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Total,Government Post-Matric
+812.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Boys,Aided Pre-Matric
+813.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Boys,Aided Pre-Matric
+814.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Girls,Aided Pre-Matric
+815.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Girls,Aided Pre-Matric
+816.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Nos,Total,Aided Pre-Matric
+817.0;12;Social welfare;12.5;Minorities Student Hostels on 31-03-2016;Students,Total,Aided Pre-Matric
+818.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Boys,Primary School 1-8th Standard,Scheduled Caste
+819.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Girls,Primary School 1-8th Standard,Scheduled Caste
+820.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Total,Primary School 1-8th Standard,Scheduled Caste
+821.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Boys,School 9-10th Standard,Scheduled Caste
+822.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Girls,School 9-10th Standard,Scheduled Caste
+823.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Total,School 9-10th Standard,Scheduled Caste
+824.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Boys,Primary School 1-8th Standard,Scheduled Tribes
+825.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Girls,Primary School 1-8th Standard,Scheduled Tribes
+826.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Total,Primary School 1-8th Standard,Scheduled Tribes
+827.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Boys,School 9-10th Standard,Scheduled Tribes
+828.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Girls,School 9-10th Standard,Scheduled Tribes
+829.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-2016 In Numbers;Total,School 9-10th Standard,Scheduled Tribes
+830.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Boys,Primary School 1-8th Standard,ckward Castes
+831.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Girls,Primary School 1-8th Standard,ckward Castes
+832.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Total,Primary School 1-8th Standard,ckward Castes
+833.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Boys,High School 9-10th Standard,ckward Castes
+834.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Girls,High School 9-10th Standard,ckward Castes
+835.0;12;Social welfare;12.6;Scholarship paid to Primary and High Schools Students 2015-16 In Numbers;Total,High School 9-10th Standard,ckward Castes
+836.0;12;Social welfare;12.6;Scholarship paid to 1-10th Standard Students 2015-16 In Numbers;Boys,1-10th Standard,Minorities
+837.0;12;Social welfare;12.6;Scholarship paid to 1-10th Standard Students 2015-16 In Numbers;Girls,1-10th Standard,Minorities
+838.0;12;Social welfare;12.6;Scholarship paid to 1-10th Standard Students 2015-16 In Numbers;Total,1-10th Standard,Minorities
+839.0;13;Women Child Development;13.1;Stree Shakti Self Help Groups and Members Year 2015-16 In Nos.;No.of Stree Shakti Self help groups
+840.0;13;Women Child Development;13.1;Stree Shakti Self Help Groups and Members Year 2015-16 In Nos.;No.of Women Sc
+841.0;13;Women Child Development;13.1;Stree Shakti Self Help Groups and Members Year 2015-16 In Nos.;No.of Women St
+842.0;13;Women Child Development;13.1;Stree Shakti Self Help Groups and Members Year 2015-16 In Nos.;No.of Women Others
+843.0;13;Women Child Development;13.1;Stree Shakti Self Help Groups and Members Year 2015-16 In Nos.;Total No.of Members
+844.0;13;Women Child Development;13.2;Loan and Financial Received from the Bank and Government Year 2015-16 in Nos.;Total Savings Accumulated Rs. in Crores
+845.0;13;Women Child Development;13.2;Loan and Financial Received from the Bank and Government Year 2015-16 in Nos.;Loan taken from Banks No.of Shg,Self Groups Rs.in Crores
+846.0;13;Women Child Development;13.2;Loan and Financial Received from the Bank and Government Year 2015-16 in Nos.;Total loan received from Bank Rs. in Crores,Self Groups Rs.in Crores
+847.0;13;Women Child Development;13.2;Loan and Financial Received from the Bank and Government Year 2015-16 in Nos.;Revolving Funds received from Govt.,Self Groups Rs.in Crores
+848.0;13;Women Child Development;13.3;No.of Members Benefitted under Bhagyalakshmi Scheme Year 2015-16 in Nos.;Current year,No.of members benefitted under Bhagyalakshmi Yojane,Bhagyalakshmi Scheme
+849.0;13;Women Child Development;13.3;No.of Members Benefitted under Bhagyalakshmi Scheme Year 2015-16 in Nos.;Cumulative,No.of members benefitted under Bhagyalakshmi Yojane,Bhagyalakshmi Scheme
+850.0;13;Women Child Development;13.3;No.of Members Benefitted under Bhagyalakshmi Scheme Year 2015-16 in Nos.;Current year,No.of Lic Bonds distrubuted
+851.0;13;Women Child Development;13.4;No.of Anganawadi Centres Year 2015-16 in Nos.;Own Building,Anganawadi Centre Information
+852.0;13;Women Child Development;13.4;No.of Anganawadi Centres Year 2015-16 in Nos.;School Building,Anganawadi Centre Information
+853.0;13;Women Child Development;13.4;No.of Anganawadi Centres Year 2015-16 in Nos.;Others,Anganawadi Centre Information
+854.0;13;Women Child Development;13.4;No.of Anganawadi Centres Year 2015-16 in Nos.;Total,Anganawadi Centre Information
+855.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;0-3 Years,No.of Beneficiaries under Supplementary Nutrition Programme
+856.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;0-6 Years,No.of Beneficiaries under Supplementary Nutrition Programme
+857.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;Pregnant Women,No.of Beneficiaries under Supplementary Nutrition Programme
+858.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;Lactating Women,No.of Beneficiaries under Supplementary Nutrition Programme
+859.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;Adolescent,No.of Beneficiaries under Supplementary Nutrition Programme
+860.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;Total,No.of Beneficiaries under Supplementary Nutrition Programme
+861.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;No. of Anganawadi Teachers
+862.0;13;Women Child Development;13.5;No. Of Anganawadi Teachers Workers and Supplementary Nutrition Programme Year-2015-16 in Nos.;No. of Anganawadi Workers Assistants
+863.0;13;Women Child Development;13.6;No.of Beneficiaries under different schemes Year-2015-16 in Nos.;No.of benefitted for payment of Girl children attendence
+864.0;13;Women Child Development;13.6;No.of Beneficiaries under different schemes Year-2015-16 in Nos.;No.of benefitted for protection of orphanage children
+865.0;13;Women Child Development;13.6;No.of Beneficiaries under different schemes Year-2015-16 in Nos.;No.of Creeches
+866.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Forest Area Area in Square Kilometres,Forest Department
+867.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Saplings Planted In Lakhs,Forest Department
+868.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Selfemployment Small enterprises training,Employment through Skill Training Placement
+869.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Wage employment Mandays,Employment through Skill Training Placement
+870.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Total,Numberof Groups under Nrlm 2015-16
+871.0;14;Rural Development & Panchayat Raj;14.1;Forest Area E.s.t.p and N.r.l.m Year 2015-16 In Nos;Women Groups,Numberof Groups under Nrlm 2015-16
+872.0;14;Rural Development & Panchayat Raj;14.2;Toilets Constructed by Rural Development and Panchayat Raj Department Year 2015-16 In Nos;Individual Household Toilets
+873.0;14;Rural Development & Panchayat Raj;14.2;Toilets Constructed by Rural Development and Panchayat Raj Department Year 2015-16 In Nos;No.of Community Toilets
+874.0;14;Rural Development & Panchayat Raj;14.2;Toilets Constructed by Rural Development and Panchayat Raj Department Year 2015-16 In Nos;No.of School Toilets
+875.0;14;Rural Development & Panchayat Raj;14.2;Toilets Constructed by Rural Development and Panchayat Raj Department Year 2015-16 In Nos;No.of Anganawadi Toilets
+876.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;Men,M.g.n.r.e.g.s Mandays Generated in Days
+877.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;Women,M.g.n.r.e.g.s Mandays Generated in Days
+878.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;Total,M.g.n.r.e.g.s Mandays Generated in Days
+879.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;Job cards issued,Mahathma Gandhi National Rural Employment Guarentee Scheme
+880.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;Household demanded employment,Mahathma Gandhi National Rural Employment Guarentee Scheme
+881.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;No.of Persons Households worked under Mgnregs,Mahathma Gandhi National Rural Employment Guarentee Scheme
+882.0;14;Rural Development & Panchayat Raj;14.3;Physical Progress under Mgnregs During Year 2015-16 In Nos;100 No.of Famalies availing 100 days of employment,Mahathma Gandhi National Rural Employment Guarentee Scheme
+883.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;No.of Habitations
+884.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;>0 - <25%,No.of Habitations having drinking water supply Lpcd
+885.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;>25 - <50%,No.of Habitations having drinking water supply Lpcd
+886.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;>50 - <75%,No.of Habitations having drinking water supply Lpcd
+887.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;>75 - <100%,No.of Habitations having drinking water supply Lpcd
+888.0;14;Rural Development & Panchayat Raj;14.4;Habitation having drinking water supply Lpcd Year 2015-16 in Nos.;>100%,No.of Habitations having drinking water supply Lpcd
+889.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Provided During the current year,Bore Wells
+890.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Total,Bore Wells
+891.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Provided During the current year,Piped Water Supply Schemes
+892.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Total,Piped Water Supply Schemes
+893.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Provided During the current year,Mini Wate Supply Schemes
+894.0;14;Rural Development & Panchayat Raj;14.5;Different Schemes of drinking water supply facilities Year 2015-16 in Nos.;Total,Mini Wate Supply Schemes
+895.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Total no. of Census houses,No.of Census Houses
+896.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;No.of vacant houses %,No.of Census Houses
+897.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;No .of Occupied houses %,No.of Census Houses
+898.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Residence %,Occupied Census Houses used as
+899.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Residence cum other use %,Occupied Census Houses used as
+900.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Shop Office %,Occupied Census Houses used as
+901.0;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;School College %,Occupied Census Houses used as
+902.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Total No.of households
+903.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Electricity %
+904.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Kerosene %
+905.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Solar Energy %
+906.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Any other %
+907.0;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;No Lighting %
+908.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Total No. Of households
+909.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tap,Source of Drinking Water %
+910.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Well,Source of Drinking Water %
+911.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Handpump,Source of Drinking Water %
+912.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tubewell,Source of Drinking Water %
+913.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tank Pond Lake %
+914.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;River Canal %
+915.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Spring %
+916.0;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Any other %
+917.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;Total No.of households
+918.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;Fire wood %
+919.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;Kerosene %
+920.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;fi Lpg Png %
+921.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;Electricity %
+922.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;fi Bio-gas %
+923.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;Any other %
+924.0;15;Housing;15.4;Distribution of Households by type of fuel used as for Cooking per 2011 Census %;No Cooking %
+925.0;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In Nos;Scheduled Caste,Current Year 2015-16
+926.0;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In Nos;Scheduled Tribe,Current Year 2015-16
+927.0;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In Nos;Others,Current Year 2015-16
+928.0;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In Nos;Total,Current Year 2015-16
+929.0;15;Housing;15.6;No.of Houses Constructed Under Dr. B.r.ambedkar Rural Housing Scheme;Scheduled Caste,Current Year 2015-16
+930.0;15;Housing;15.6;No.of Houses Constructed Under Dr. B.r.ambedkar Rural Housing Scheme;Scheduled Tribe,Current Year 2015-16
+931.0;15;Housing;15.6;No.of Houses Constructed Under Dr. B.r.ambedkar Rural Housing Scheme;Total,Current Year 2015-16
+932.0;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Numbers;Scheduled Caste,Current Year 2015-16
+933.0;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Numbers;Scheduled Tribe,Current Year 2015-16
+934.0;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Numbers;Other Backward Caste,Current Year 2015-16
+935.0;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Numbers;Others,Current Year 2015-16
+936.0;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Numbers;Total,Current Year 2015-16
+937.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;Beneficiries under Bhagyajyoti kutera jyoti upto 31-03-2015
+938.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;Villages,Electrified upto 31-03-2016 cumulative
+939.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;Hamlets,Electrified upto 31-03-2016 cumulative
+940.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;I.P.Sets,Electrified upto 31-03-2016 cumulative
+941.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;Villages,Non Electrified upto 31-03-2016 cumulative
+942.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;Hamlets,Non Electrified upto 31-03-2016 cumulative
+943.0;16;Energy;16.1;No.of Electrified Villages Hamlets Sets 2015-16 Nos;I.P.Sets,Non Electrified upto 31-03-2016 cumulative
+944.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;Domestic
+945.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;Industrial
+946.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;Commercial Consumption
+947.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;I.P.Sets
+948.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;Others including Street Lights
+949.0;16;Energy;16.2;Sectorwise Electricity Consumers on 31-03-2016 In Nos;Total
+950.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Domestic,Electricity Consumption in Million unit
+951.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Industry,Electricity Consumption in Million unit
+952.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Commercial,Electricity Consumption in Million unit
+953.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Ip Sets,Electricity Consumption in Million unit
+954.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Street Lights,Electricity Consumption in Million unit
+955.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Others,Electricity Consumption in Million unit
+956.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Total,Electricity Consumption in Million unit
+957.0;16;Energy;16.3;Sectorwise Electricity Consumption Year 2015-16;Income from electricity consumption Rs. in lakh
+958.0;17;Miscellaneous;17.1;Excise Shop and Consumption of Liquor Year 2015-2016 Nos;Excise Shops
+959.0;17;Miscellaneous;17.1;Excise Shop and Consumption of Liquor Year 2015-2016 Nos;Iml Liquor,Consumption of Liquor lakh
+960.0;17;Miscellaneous;17.1;Excise Shop and Consumption of Liquor Year 2015-2016 Nos;Beer,Consumption of Liquor lakh
+961.0;17;Miscellaneous;17.1;Excise Shop and Consumption of Liquor Year 2015-2016 Nos;Income from Excise in Crores
+962.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Old Age Pensioners
+963.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Indra Gandhi National Old Age Pensioners
+964.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Widow Pensioners
+965.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Disabled Pensioners
+966.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Disabled Pensioners Php-75%
+967.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Sandya Suraksha
+968.0;17;Miscellaneous;17.2;No.of Pensioners under Social Schemes As on 31-03-2016 In Nos;Total
+969.0;17;Miscellaneous;17.3;Registration of Birth and Death;Registration Units Rural Urban
+970.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Registered events Year 2015
+971.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Registered events Year 2015
+972.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Registered events Year 2015
+973.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Registered events Year 2015
+974.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Registered events Year 2015
+975.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Registered events Year 2015
+976.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Late Registered events Year 2015
+977.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Late Registered events Year 2015
+978.0;17;Miscellaneous;17.3;Registration of Birth and Death;Birth,Late Registered events Year 2015
+979.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Late Registered events Year 2015
+980.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Late Registered events Year 2015
+981.0;17;Miscellaneous;17.3;Registration of Birth and Death;Death,Late Registered events Year 2015
+992.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Marginal Agril. Land Holder Below 1 Ha. Sc
+993.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Marginal Agril. Land Holder Below 1 Ha. Sc
+994.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Marginal Agril. Land Holder Below 1 Ha. Sc
+995.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Marginal Agril. Land Holder Below 1 Ha. Sc
+996.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Marginal Agril. Land Holder Below 1 Ha. Sc
+997.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Marginal Agril. Land Holder Below 1 Ha. Sc
+998.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Marginal Agril. Land Holder Below 1 Ha. Sc
+999.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Marginal Agril. Land Holder Below 1 Ha. Sc
+1000.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Marginal Agril. Land Holder Below 1 Ha. St
+1001.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Marginal Agril. Land Holder Below 1 Ha. St
+1002.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Marginal Agril. Land Holder Below 1 Ha. St
+1003.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Marginal Agril. Land Holder Below 1 Ha. St
+1004.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Marginal Agril. Land Holder Below 1 Ha. St
+1005.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Marginal Agril. Land Holder Below 1 Ha. St
+1006.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Marginal Agril. Land Holder Below 1 Ha. St
+1007.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Marginal Agril. Land Holder Below 1 Ha. St
+1008.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Marginal Agril. Land Holder Below 1 Ha. Others
+1009.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Marginal Agril. Land Holder Below 1 Ha. Others
+1010.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Marginal Agril. Land Holder Below 1 Ha. Others
+1011.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Marginal Agril. Land Holder Below 1 Ha. Others
+1012.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Marginal Agril. Land Holder Below 1 Ha. Others
+1013.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Marginal Agril. Land Holder Below 1 Ha. Others
+1014.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Marginal Agril. Land Holder Below 1 Ha. Others
+1015.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Marginal Agril. Land Holder Below 1 Ha. Others
+1016.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Marginal Agril. Land Holder Below 1 Ha. Total
+1017.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Marginal Agril. Land Holder Below 1 Ha. Total
+1018.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Marginal Agril. Land Holder Below 1 Ha. Total
+1019.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Marginal Agril. Land Holder Below 1 Ha. Total
+1020.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Marginal Agril. Land Holder Below 1 Ha. Total
+1021.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Marginal Agril. Land Holder Below 1 Ha. Total
+1022.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Marginal Agril. Land Holder Below 1 Ha. Total
+1023.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Marginal Agril. Land Holder Below 1 Ha. Total
+1024.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Small Agril. Land Holder 2 Ha. Sc
+1025.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Small Agril. Land Holder 2 Ha. Sc
+1026.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Small Agril. Land Holder 2 Ha. Sc
+1027.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Small Agril. Land Holder 2 Ha. Sc
+1028.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Small Agril. Land Holder 2 Ha. Sc
+1029.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Small Agril. Land Holder 2 Ha. Sc
+1030.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;g Aw Institutions,Area,Small Agril. Land Holder 2 Ha. Sc
+1031.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Small Agril. Land Holder 2 Ha. Sc
+1032.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Small Agril. Land Holder 2 Ha. St
+1033.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Small Agril. Land Holder 2 Ha. St
+1034.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Small Agril. Land Holder 2 Ha. St
+1035.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Small Agril. Land Holder 2 Ha. St
+1036.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Small Agril. Land Holder 2 Ha. St
+1037.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Small Agril. Land Holder 2 Ha. St
+1038.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Small Agril. Land Holder 2 Ha. St
+1039.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Small Agril. Land Holder 2 Ha. St
+1040.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Small Agril. Land Holder 2 Ha. Others
+1041.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Small Agril. Land Holder 2 Ha. Others
+1042.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Small Agril. Land Holder 2 Ha. Others
+1043.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Small Agril. Land Holder 2 Ha. Others
+1044.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Small Agril. Land Holder 2 Ha. Others
+1045.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Small Agril. Land Holder 2 Ha. Others
+1046.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Small Agril. Land Holder 2 Ha. Others
+1047.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Small Agril. Land Holder 2 Ha. Others
+1048.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Small Agril. Land Holder 1-2 Ha. Total
+1049.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Small Agril. Land Holder 1-2 Ha. Total
+1050.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Small Agril. Land Holder 1-2 Ha. Total
+1051.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Small Agril. Land Holder 1-2 Ha. Total
+1052.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Small Agril. Land Holder 1-2 Ha. Total
+1053.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Small Agril. Land Holder 1-2 Ha. Total
+1054.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Small Agril. Land Holder 1-2 Ha. Total
+1055.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Small Agril. Land Holder 1-2 Ha. Total
+1056.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1057.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1058.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1059.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1060.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1061.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1062.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1063.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Semi Medium Agril. Land Holder 2-4 Ha. Sc
+1064.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Semi Medium Agril. Land Holder 2-4 Ha. St
+1065.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Semi Medium Agril. Land Holder 2-4 Ha. St
+1066.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Semi Medium Agril. Land Holder 2-4 Ha. St
+1067.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Semi Medium Agril. Land Holder 2-4 Ha. St
+1068.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Semi Medium Agril. Land Holder 2-4 Ha. St
+1069.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Semi Medium Agril. Land Holder 2-4 Ha. St
+1070.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Semi Medium Agril. Land Holder 2-4 Ha. St
+1071.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Semi Medium Agril. Land Holder 2-4 Ha. St
+1072.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Male,Number,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1073.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Female,Number,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1074.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Institutions,Number,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1075.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Total,Number,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1076.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Male,Area,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1077.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Female,Area,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1078.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Institutions,Area,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1079.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Total,Area,Semi Medium Agril. Land Holder 2-4 Ha. Others
+1080.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Male,Number,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1081.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Female,Number,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1082.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Institutions,Number,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1083.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Total,Number,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1084.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Male,Area,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1085.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Female,Area,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1086.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Institutions,Area,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1087.0;18;Additional information;18.3;Agricultural Land Holdings And Area 2010-11;Total,Area,Semi Medium Agril. Land Holder 2-4 Ha. Total
+1088.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Number,Medium Agril. Land Holder 4-10 Ha. Sc
+1089.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Number,Medium Agril. Land Holder 4-10 Ha. Sc
+1090.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Number,Medium Agril. Land Holder 4-10 Ha. Sc
+1091.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Number,Medium Agril. Land Holder 4-10 Ha. Sc
+1092.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Area,Medium Agril. Land Holder 4-10 Ha. Sc
+1093.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Area,Medium Agril. Land Holder 4-10 Ha. Sc
+1094.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Area,Medium Agril. Land Holder 4-10 Ha. Sc
+1095.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Area,Medium Agril. Land Holder 4-10 Ha. Sc
+1096.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Number,Medium Agril. Land Holder 4-10 Ha. St
+1097.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Number,Medium Agril. Land Holder 4-10 Ha. St
+1098.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Number,Medium Agril. Land Holder 4-10 Ha. St
+1099.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Number,Medium Agril. Land Holder 4-10 Ha. St
+1100.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Area,Medium Agril. Land Holder 4-10 Ha. St
+1101.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Area,Medium Agril. Land Holder 4-10 Ha. St
+1102.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Area,Medium Agril. Land Holder 4-10 Ha. St
+1103.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Area,Medium Agril. Land Holder 4-10 Ha. St
+1104.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Number,Medium Agril. Land Holder 4-10 Ha. Others
+1105.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Number,Medium Agril. Land Holder 4-10 Ha. Others
+1106.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Number,Medium Agril. Land Holder 4-10 Ha. Others
+1107.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Number,Medium Agril. Land Holder 4-10 Ha. Others
+1108.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Area,Medium Agril. Land Holder 4-10 Ha. Others
+1109.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Area,Medium Agril. Land Holder 4-10 Ha. Others
+1110.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Area,Medium Agril. Land Holder 4-10 Ha. Others
+1111.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Area,Medium Agril. Land Holder 4-10 Ha. Others
+1112.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Number,Medium Agril. Land Holder 4-10 Ha. Total
+1113.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Number,Medium Agril. Land Holder 4-10 Ha. Total
+1114.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Number,Medium Agril. Land Holder 4-10 Ha. Total
+1115.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Number,Medium Agril. Land Holder 4-10 Ha. Total
+1116.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Male,Area,Medium Agril. Land Holder 4-10 Ha. Total
+1117.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Female,Area,Medium Agril. Land Holder 4-10 Ha. Total
+1118.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Institutions,Area,Medium Agril. Land Holder 4-10 Ha. Total
+1119.0;18;Additional information;18.3;Agricultural Land holdings and Area per 2010-11 Census;Total,Area,Medium Agril. Land Holder 4-10 Ha. Total
+1120.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Large Agrl. Land Holder More than 10 Ha. Sc
+1121.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Large Agrl. Land Holder More than 10 Ha. Sc
+1122.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Large Agrl. Land Holder More than 10 Ha. Sc
+1123.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Large Agrl. Land Holder More than 10 Ha. Sc
+1124.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Large Agrl. Land Holder More than 10 Ha. Sc
+1125.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Large Agrl. Land Holder More than 10 Ha. Sc
+1126.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Large Agrl. Land Holder More than 10 Ha. Sc
+1127.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Large Agrl. Land Holder More than 10 Ha. Sc
+1128.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Large Agrl. Land Holder More than 10 Ha. St
+1129.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Large Agrl. Land Holder More than 10 Ha. St
+1130.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Large Agrl. Land Holder More than 10 Ha. St
+1131.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Large Agrl. Land Holder More than 10 Ha. St
+1132.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Large Agrl. Land Holder More than 10 Ha. St
+1133.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Large Agrl. Land Holder More than 10 Ha. St
+1134.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Large Agrl. Land Holder More than 10 Ha. St
+1135.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Large Agrl. Land Holder More than 10 Ha. St
+1136.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Large Agrl. Land Holder More than 10 Ha. Others
+1137.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Large Agrl. Land Holder More than 10 Ha. Others
+1138.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Large Agrl. Land Holder More than 10 Ha. Others
+1139.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Large Agrl. Land Holder More than 10 Ha. Others
+1140.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Large Agrl. Land Holder More than 10 Ha. Others
+1141.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Large Agrl. Land Holder More than 10 Ha. Others
+1142.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Large Agrl. Land Holder More than 10 Ha. Others
+1143.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Large Agrl. Land Holder More than 10 Ha. Others
+1144.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Large Agrl. Land Holder More than 10 Ha. Total
+1145.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Large Agrl. Land Holder More than 10 Ha. Total
+1146.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Large Agrl. Land Holder More than 10 Ha. Total
+1147.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Large Agrl. Land Holder More than 10 Ha. Total
+1148.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Large Agrl. Land Holder More than 10 Ha. Total
+1149.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Large Agrl. Land Holder More than 10 Ha. Total
+1150.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Large Agrl. Land Holder More than 10 Ha. Total
+1151.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Large Agrl. Land Holder More than 10 Ha. Total
+1152.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Total Agrl. Land Holder Sc
+1153.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Total Agrl. Land Holder Sc
+1154.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Total Agrl. Land Holder Sc
+1155.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Total Agrl. Land Holder Sc
+1156.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Total Agrl. Land Holder Sc
+1157.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Total Agrl. Land Holder Sc
+1158.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Total Agrl. Land Holder Sc
+1159.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Total Agrl. Land Holder Sc
+1160.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Total Agrl. Land Holder St
+1161.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Total Agrl. Land Holder St
+1162.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Total Agrl. Land Holder St
+1163.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Total Agrl. Land Holder St
+1164.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Total Agrl. Land Holder St
+1165.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Total Agrl. Land Holder St
+1166.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Total Agrl. Land Holder St
+1167.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Total Agrl. Land Holder St
+1168.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Male,Number,Total Agrl. Land Holder Others
+1169.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Female,Number,Total Agrl. Land Holder Others
+1170.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Institutions,Number,Total Agrl. Land Holder Others
+1171.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Total,Number,Total Agrl. Land Holder Others
+1172.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Male,Area,Total Agrl. Land Holder Others
+1173.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Female,Area,Total Agrl. Land Holder Others
+1174.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Institutions,Area,Total Agrl. Land Holder Others
+1175.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Agri.Census;Total,Area,Total Agrl. Land Holder Others
+1176.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Number,Total Agrl. Land Holder Total
+1177.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Number,Total Agrl. Land Holder Total
+1178.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Number,Total Agrl. Land Holder Total
+1179.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Number,Total Agrl. Land Holder Total
+1180.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Male,Area,Total Agrl. Land Holder Total
+1181.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Female,Area,Total Agrl. Land Holder Total
+1182.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Institutions,Area,Total Agrl. Land Holder Total
+1183.0;18;Additional information;18.3;Agricultural Land Holdings And Area per 2010-11 Census;Total,Area,Total Agrl. Land Holder Total

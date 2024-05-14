@@ -1,0 +1,43 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+895;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Total no. of Census houses,No.of Census Houses
+896;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;No.of vacant houses %,No.of Census Houses
+897;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;No .of Occupied houses %,No.of Census Houses
+898;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Residence %,Occupied Census Houses used
+899;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Residence cum other use %,Occupied Census Houses used
+900;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;Shop Office %,Occupied Census Houses used
+901;15;Housing;15.1;Census Houses and their uses to which they put per 2011 Census;School College %,Occupied Census Houses used
+902;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Total No.of households
+903;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Electricity %
+904;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Kerosene %
+905;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Solar Energy %
+906;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;Any other %
+907;15;Housing;15.2;Distribution of Households by source of Lighting 2011 Census %;No Lighting %
+908;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Total No. Of households
+909;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tap,Source of Drinking Water %
+910;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Well,Source of Drinking Water %
+911;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Handpump,Source of Drinking Water %
+912;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tubewell,Source of Drinking Water %
+913;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Tank Pond Lake %
+914;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;River Canal %
+915;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Spring %
+916;15;Housing;15.3;Distribution of Households by source of Drinking water -2011 census %;Any other %
+917;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Total No.of households
+918;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Fire wood %
+919;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Kerosene %
+920;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Lpg Png %
+921;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Electricity %
+922;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Bio-gas %
+923;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;Any other %
+924;15;Housing;15.4;Distribution of Households by type of fuel used for Cooking per 2011 Census %;No Cooking %
+925;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In No;Scheduled Caste,Current Year 2016-17
+926;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In No;Scheduled Tribe,Current Year 2016-17
+927;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In No;Others,Current Year 2016-17
+928;15;Housing;15.5;Number Of Houses Constructed Under Rural Ashraya Schemes In No;Total,Current Year 2016-17
+929;15;Housing;15.6;No.of Houses Constructed Under DR.B.R.Ambedkar Rural Housing;Scheduled Caste,Current Year 2016-17
+930;15;Housing;15.6;No.of Houses Constructed Under DR.B.R.Ambedkar Rural Housing;Scheduled Tribe,Current Year 2016-17
+931;15;Housing;15.6;No.of Houses Constructed Under DR.B.R.Ambedkar Rural Housing;Total,Current Year 2016-17
+932;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Number;Scheduled Caste,Current Year 2016-17
+933;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Number;Scheduled Tribe,Current Year 2016-17
+934;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Number;Other Backward Caste,Current Year 2016-17
+935;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Number;Others,Current Year 2016-17
+936;15;Housing;15.7;Number Of Houses Constructed Under Indira Awaz Scheme In Number;Total,Current Year 2016-17
